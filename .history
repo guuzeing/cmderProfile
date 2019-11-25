@@ -1,0 +1,4337 @@
+ls
+ifconfig
+cls
+clear
+ipconfig
+pip list
+ls
+ifconfig
+cls
+clear
+ipconfig
+pip list
+cd C:\users\p8780\Desktop\
+c:
+python product_comsumer.py
+pip install pymongo
+activate Spider3.6
+python product_consumer.py 
+pip install pymongo
+cd c:\Users\p8780\Desktop\
+c:
+activate Spider3.6
+python product_consumer.py 
+ls
+ifconfig
+cls
+clear
+ipconfig
+pip list
+ifconfig
+cls
+ipconfig
+pip list
+cd C:\users\p8780\Desktop\
+c:
+python product_comsumer.py
+pip install pymongo
+activate Spider3.6
+python product_consumer.py 
+pip install pymongo
+cd c:\Users\p8780\Desktop\
+c:
+python product_consumer.py 
+cd D:\Projects\XHS\xiaohongshu\control
+ls
+ls -l
+activate Spider3.6
+mitmdump -s tab_kol_publish_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+clear
+mitmdump -s kol_publish_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120 -- ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120 --upstream http://192.168.0.75:3128 --upstream-auth u8:crawl ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120  ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+pip install pymongo
+activate Spider3.6
+python product_consumer.py 
+pip install pymongo
+cd c:\Users\p8780\Desktop\
+c:
+activate Spider3.6
+python product_consumer.py 
+ls
+ifconfig
+cls
+clear
+ipconfig
+pip list
+ifconfig
+ipconfig
+pip list
+cd C:\users\p8780\Desktop\
+c:
+python product_comsumer.py
+pip install pymongo
+activate Spider3.6
+python product_consumer.py 
+pip install pymongo
+cd c:\Users\p8780\Desktop\
+python product_consumer.py 
+cd D:\Projects\XHS\xiaohongshu\control
+ls -l
+mitmdump -s tab_kol_publish_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s kol_publish_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120 -- ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120 --upstream http://192.168.0.75:3128 --upstream-auth u8:crawl ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120  ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+d:
+cd d:\Projects\小红书\xhs_oreal\control\
+jls
+mitmdump -s oreal_keyword_search_proxy.py -p 12121 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump --help
+mitmdump -s oreal_keyword_search_proxy.py -p 12120 --upstream http://192.168.0.71:3128 --upstream-auth u0:crawl ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ls
+mitmdump -s oreal_keyword_search_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd c:\users\p8780\Desktop\maodouSpider\
+activate Spider3.6
+c:
+scrapy genspider get_style maodou.com
+scrapy crawal get_style
+ https://www.maodou.com/car/list/dongfeng/?keyword=cls
+cls
+ https://www.maodou.com/car/list/dongfeng/?keyword=cls
+clear
+scrapy genspider get_price maodou.com
+scrapy crawl get_style
+scrapy crawl get_price
+mitmdump -s tab_kol_publish_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s kol_publish_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120 -- ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120 --upstream http://192.168.0.75:3128 --upstream-auth u8:crawl ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump -s publish_detail_proxy.py -p 12120  ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+d:
+cd d:\Projects\小红书\xhs_oreal\control\
+jls
+mitmdump -s oreal_keyword_search_proxy.py -p 12121 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+mitmdump --help
+mitmdump -s oreal_keyword_search_proxy.py -p 12120 --upstream http://192.168.0.71:3128 --upstream-auth u0:crawl ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ls
+mitmdump -s oreal_keyword_search_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd c:\users\p8780\Desktop\maodouSpider\
+scrapy genspider get_style maodou.com
+scrapy crawal get_style
+ https://www.maodou.com/car/list/dongfeng/?keyword=cls
+cls
+ https://www.maodou.com/car/list/dongfeng/?keyword=cls
+scrapy genspider get_price maodou.com
+cd c:\users\p8780\Desktop\
+c:
+activate Spider3.4
+scrapy startproject pcautoSpider
+cd pcautoSpider\
+scrapy genspider get_model_list pcauto.com
+scrapy crawl get_model_list
+cd ..
+cd maodouSpider\
+clear
+deactivate
+activate Spider3.6
+scrapy crawl get_style
+scrapy crawl get_price
+scrapy crawl get_style
+scrapy crawl get_price
+cd D:\Projects\小红书\xhs_kol\control
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+clear
+cd c:\users\p8780\Desktop\
+c:
+cd adb\
+ls
+scrapy crawl get_model_list
+cd maodouSpider\
+clear
+deactivate
+activate Spider3.6
+scrapy crawl get_style
+scrapy crawl get_price
+scrapy crawl get_style
+scrapy crawl get_price
+cd D:\Projects\小红书\xhs_kol\control
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+clear
+cd c:\users\p8780\Desktop\
+c:
+cd adb\
+cd desktop
+vim .bashrc
+source .bashrc
+vim ~/.bashrc
+cd adb
+ls
+python xxxxx.py
+python unwxapkg3.py _1992529666_174.wxapkg xhs
+python unwxapkg3.py _1992529666_174.wxapkg 
+cd ..
+node a.js
+node md5.js
+clear
+deactivate
+activate Spider3.6
+scrapy crawl get_style
+scrapy crawl get_price
+scrapy crawl get_style
+scrapy crawl get_price
+cd D:\Projects\小红书\xhs_kol\control
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+clear
+cd c:\users\p8780\Desktop\
+cd adb\
+C:\Users\p8780\Desktop\adb adb device
+adb --help
+c:
+cd C:\Users\p8780\Desktop\adb 
+adb device
+adb devices -;
+adb devices -l
+adb -e 
+adb -e connect
+adb connect 127.0.0.1:62001
+adb pull /data/_1992529666_174.wxapkg ./
+adb pull /data/_1992529666_174.wxapkg c:\users\p8780\Desktop\
+adb pull /data/_1992529666_174.wxapkg ./_1992529666_174.wxapkg
+ls
+python unwxapkg3.py _1992529666_174.wxapkg 
+adb push ./_1992529666_174.wxapkg /data/data/com.tencent.mm/MicroMsg/c8747822606a55cfe8b83ac4f0b537a3/appbrand/pkg/_1992529666_174.wxapkg
+adb pull /data/data/com.tencent.mm/MicroMsg/c8747822606a55cfe8b83ac4f0b537a3/appbrand/pkg/_1992529666_174.wxapkg ./_1992529666_174.wxapkg
+adb push ./res.wxapkg /data/data/com.tencent.mm/MicroMsg/c8747822606a55cfe8b83ac4f0b537a3/appbrand/pkg/_1992529666_174.wxapkg
+adb shell
+activate Spider3.5
+activate Spider3.6
+ipython
+cd adb\
+cd D:\Projects\小红书\xhs_kol\control 
+d:
+ls
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ls
+ls
+cd \
+cmderr
+cmder.exe /?
+ls
+python unwxapkg3.py _1992529666_174.wxapkg 
+adb push ./_1992529666_174.wxapkg /data/data/com.tencent.mm/MicroMsg/c8747822606a55cfe8b83ac4f0b537a3/appbrand/pkg/_1992529666_174.wxapkg
+adb pull /data/data/com.tencent.mm/MicroMsg/c8747822606a55cfe8b83ac4f0b537a3/appbrand/pkg/_1992529666_174.wxapkg ./_1992529666_174.wxapkg
+adb push ./res.wxapkg /data/data/com.tencent.mm/MicroMsg/c8747822606a55cfe8b83ac4f0b537a3/appbrand/pkg/_1992529666_174.wxapkg
+adb shell
+activate Spider3.5
+activate Spider3.6
+ipython
+cd adb\
+cd D:\Projects\小红书\xhs_kol\control 
+d:
+ls
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+alias 
+alias /help
+cd ~
+cd /d c:\Users\p8780\
+ls
+cd d:\Projects\
+pwd
+history
+clear
+vi
+cd
+alias /?
+doskey/?
+alias /reload
+cdh
+cd -
+cd /?
+cmderr
+cmder.exe --help
+d:
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+node -v
+node
+node server.js 
+npm list -g
+clear
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+alias
+alias /?
+ls --help
+alias /reload
+ls
+activate Spider3.5
+activate Spider3.6
+ipython
+cd adb\
+cd D:\Projects\小红书\xhs_kol\control 
+ls
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd d:\Projects\newrank\newrankSpider\
+d:
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+cd ~
+c:
+cd Desktop\xhs_node\
+npm init
+nod
+node
+H
+node index.js
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+node
+node 
+cd D:\Projects\小红书\xhs_kol\control 
+d:
+ls
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+node 
+cd D:\Projects\小红书\xhs_kol\control 
+d:
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd d:\Projects\音乐\wangyimusic\
+ls
+activate Spider3.4
+clear
+scrapy crawl geshou_album_gequ_comment
+d:
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd d:\Projects\音乐\wangyimusic\
+ls
+cd D:/Projects/newrank/newrankSpider
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+cd D:\Projects\音乐\wangyimusic>
+cd D:\Projects\音乐\wangyimusic
+scrapy crawl geshou_album_gequ_comment
+cd newrank\newrankSpider\
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+scrapy crawl history_name
+clear
+cd D:\Projects\音乐\wangyimusic>
+cd D:\Projects\音乐\wangyimusic
+scrapy crawl geshou_album_gequ_comment
+cd d:\Projects\小红书\
+cd xhs_kol\
+cd control\
+ls
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ipconfig
+cd D:\Projects\XHS\xiaohongshu\etl
+ls
+python
+activate Spider3.4
+python oreal_publish_process.py 
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+node
+node 
+cd D:\Projects\小红书\xhs_kol\control 
+d:
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ls
+activate Spider3.6
+python get_user_info.py
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ls
+node index.js
+d:
+git status
+ls
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cdh
+cd Desktop\xhs_crawl\
+ls
+activate Spider3.6
+python get_user_info.py 
+cd ..
+cd xhs_node\
+ls
+node index.js
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+node 
+cd D:\Projects\小红书\xhs_kol\control 
+d:
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd d:\Projects\音乐\wangyimusic\
+ls
+activate Spider3.4
+clear
+scrapy crawl geshou_album_gequ_comment
+d:
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd d:\Projects\音乐\wangyimusic\
+ls
+cd D:/Projects/newrank/newrankSpider
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+cd D:\Projects\音乐\wangyimusic>
+cd D:\Projects\音乐\wangyimusic
+scrapy crawl geshou_album_gequ_comment
+cd newrank\newrankSpider\
+activate Spider3.4
+scrapy crawl search
+scrapy crawl history_name
+scrapy crawl history_name
+cd D:\Projects\音乐\wangyimusic>
+cd D:\Projects\音乐\wangyimusic
+scrapy crawl geshou_album_gequ_comment
+cd d:\Projects\小红书\
+cd xhs_kol\
+cd control\
+ls
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ipconfig
+cd D:\Projects\XHS\xiaohongshu\etl
+ls
+python
+python oreal_publish_process.py 
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+node
+node 
+cd D:\Projects\小红书\xhs_kol\control 
+d:
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ls
+activate Spider3.6
+python get_user_info.py
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+ls
+node index.js
+d:
+git status
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cdh
+cd desktop\xhs_crawl\
+activate Spider3.6
+python get_user_publish.py 
+cd 
+cd ..
+rm -r linkolderSpider\
+ls
+deactivate
+activate Spider3.4
+scrapy startproject linkolderSpider
+cd linkolderSpider\
+scrapy genspider getList
+scrapy genspider getList linkolder.com
+scrapy genspider getArea linkolder.com
+scrapy genspider getCategory linkolder.com
+scrapy crawl getCategory
+scrapy crawl getArea
+scrapy crawl getList
+clear
+scrapy crawl detail
+node index.js
+d:
+git status
+activate Spider3.4
+scrapy genspider detail
+scrapy genspider detail linkolder.com
+cd 
+cdh
+cd Desktop\xhs_crawl\
+cd d:\Projects\小红书\xhs_kol\
+cd control\
+history
+ls
+deactivate
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+node index.js
+d:
+git status
+scrapy genspider detail
+scrapy genspider detail linkolder.com
+cd 
+cdh
+cd Desktop\xhs_crawl\
+cd d:\Projects\小红书\xhs_kol\
+cd control\
+history
+ls
+deactivate
+activate Spider3.6
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd ABCSpider\
+activate Spider3.4
+scrapy crawl search_position
+cd ..
+cd linkolderSpider\
+scrapy crawl detail
+cd ..
+cd linkolderSpider\
+cd d:\Projects\newrank\newrankSpider\
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+cd utils\
+ls
+python mini_info_out.py 
+python mini_info_out.py 
+activate Spider3.4
+cd ..
+ls
+cd guimiSpider\
+scrapy crawl guimi
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd ABCSpider\
+activate Spider3.4
+scrapy crawl search_position
+cd ..
+cd linkolderSpider\
+scrapy crawl detail
+cd linkolderSpider\
+cd d:\Projects\newrank\newrankSpider\
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+cd utils\
+python mini_info_out.py 
+activate Spider2.7
+cd d:\Projects\KOL\meizhuang\
+scrapy crawl meipai_1124
+cd meizhuang\
+python meipai_publish.py 
+python meipai_user.py 
+cd ..
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+cd guimi_0803\
+cd etl
+ls
+python tongji.py 
+python guimi_user.py 
+python guimi_publish.py 
+python csv_json.py 
+scrapy crawl search_position
+cd ..
+cd linkolderSpider\
+scrapy crawl detail
+activate Spider3.6
+ls
+python get_kolinfo.py
+python getkolinfo.py 
+cd d:\Projects\小红书\xhs_kol\
+cd control\
+history
+deactivate
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd ABCSpider\
+activate Spider3.4
+scrapy crawl search_position
+cd linkolderSpider\
+scrapy crawl detail
+cd ..
+cd xhs_crawl
+activate Spider3.6
+ls
+LS
+python get_user_publish.py 
+activate Spider3.6
+LS
+python get_user_publish.py 
+cd d:\Projects\深圳生态\ABCSpider\
+ls
+activate Spider3.4
+scrapy crawl search_position
+python
+clear
+cd d:\Projects\newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+scrapy crawl search_position
+cd linkolderSpider\
+scrapy crawl detail
+cd ..
+cd xhs_crawl
+LS
+python get_user_publish.py 
+ls
+activate Spider3.6
+python get_publish_detail4.py 
+python get_user_info_4.py
+cd ABCSpider\
+activate Spider3.4
+scrapy crawl search_position
+cd linkolderSpider\
+scrapy crawl detail
+cd ..
+cd xhs_crawl
+LS
+python get_user_publish.py 
+activate Spider3.6
+python get_publish_detail3.py 
+ls
+python get_user_info_3.py
+history
+deactivate
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd ABCSpider\
+activate Spider3.4
+scrapy crawl search_position
+cd linkolderSpider\
+scrapy crawl detail
+cd ..
+cd xhs_crawl
+LS
+python get_user_publish.py 
+activate Spider3.6
+python get_publish_detail2.py 
+ls
+python get_user_info_2.py 
+cd control\
+history
+deactivate
+mitmdump -s tab_proxy.py -p 12120 ~u www.xiaohongshu.com/sapi/wx_mp_api/sns/v1/ ~http ~c 200 ~m GET
+cd ABCSpider\
+activate Spider3.4
+scrapy crawl search_position
+cd linkolderSpider\
+scrapy crawl detail
+cd ..
+cd xhs_crawl
+LS
+python get_user_publish.py 
+activate Spider3.6
+python get_publish_detail.py 
+ls
+clear
+netstat -a
+python get_user_info_1.py
+cd ..
+cd xhs_crawl
+activate Spider3.6
+LS
+python get_user_publish.py 
+ls
+clear
+node index.js
+activate Spider3.6
+python
+scrapy crawl detail
+scrapy crawl history_name
+activate Spider3.4
+pip install pyautogui
+deactivate
+activate Spider3.6
+cd ..
+cd zhilian\
+ls
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~http
+mitmdump -s list_proxy.py -p 12120 ~http ~u rd5.zhaopin.com
+git config
+git config -l
+git status
+git checkout
+git checkout --help
+git checkout
+pip install pyautogui
+deactivate
+activate Spider3.6
+cd ..
+cd zhilian\
+mitmdump -s list_proxy.py -p 12120 ~http
+mitmdump -s list_proxy.py -p 12120 ~http ~u rd5.zhaopin.com
+cd D:\Projects\智联招聘\zhilian
+git init
+git add -A ./
+git commit -m '改用requests爬取列表'
+git status
+clear
+ls
+mitmdump -s list_proxy.py -p 12120  ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopin.com ~http
+cd D:\Projects\newrank\newrankSpider
+git status
+git add -A .
+git commit -m '关键词改为从文件读取'
+activate Spider3.4
+scrapy crawl search
+clear
+mitmdump -s list_proxy.py -p 12120  ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopin.com ~http
+cd D:\Projects\newrank\newrankSpider
+git status
+git add -A .
+git commit -m '关键词改为从文件读取'
+activate Spider3.4
+scrapy crawl search
+ls
+activate Spider3.6
+python get_publish_detail.py 
+python get_user_info_2.py 
+scrapy crawl search
+ls
+node index.js
+clear
+ls
+mitmdump -s list_proxy.py -p 12120  ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopin.com ~http
+cd D:\Projects\newrank\newrankSpider
+git status
+git add -A .
+git commit -m '关键词改为从文件读取'
+activate Spider3.4
+scrapy crawl search
+activate Spider3.6
+python get_publish_detail4.py 
+python get_user_info_4.py 
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopin.com ~http
+cd D:\Projects\newrank\newrankSpider
+git status
+git add -A .
+git commit -m '关键词改为从文件读取'
+activate Spider3.4
+scrapy crawl search
+ls
+activate Spider3.6
+python get_publish_detail3.py 
+python get_user_info_3.py 
+deactivate
+activate Spider3.6
+cd ..
+cd zhilian\
+ls
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~http
+mitmdump -s list_proxy.py -p 12120 ~http ~u rd5.zhaopin.com
+git config
+git config -l
+git status
+git checkout
+git checkout --help
+git checkout
+pip install pyautogui
+deactivate
+cd ..
+cd zhilian\
+mitmdump -s list_proxy.py -p 12120 ~http
+mitmdump -s list_proxy.py -p 12120 ~http ~u rd5.zhaopin.com
+cd D:\Projects\智联招聘\zhilian
+git init
+git commit -m '改用requests爬取列表'
+git status
+ls
+mitmdump -s list_proxy.py -p 12120  ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopin.com ~http
+cd D:\Projects\newrank\newrankSpider
+git add -A .
+git commit -m '关键词改为从文件读取'
+activate Spider3.6
+python get_publish_detail2.py 
+python get_user_info_1.py 
+clear
+cd d:\Projects\newrank\newrankSpider\
+\git status
+git flog
+git commit -m '保存当前，准备返回之前从数据库读取关键词'
+git revert -n a233bf245ae90b5e8d247f8a19e7885e75de74ab
+git add -A ./
+git commit -m '恢复成功'
+git status
+git revert -n cd5dedba22ffe9fd1ffcb3aac4ff3c792e19c4fd
+git reset --hard a233bf
+git log
+git reflog
+git reset --hard cd5dedb
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+python get_user_info_4.py 
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopin.com ~http
+cd D:\Projects\newrank\newrankSpider
+git status
+git add -A .
+git commit -m '关键词改为从文件读取'
+activate Spider3.4
+scrapy crawl search
+ls
+activate Spider3.6
+python get_publish_detail3.py 
+python get_user_info_3.py 
+deactivate
+activate Spider3.6
+cd ..
+cd zhilian\
+ls
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~http
+mitmdump -s list_proxy.py -p 12120 ~http ~u rd5.zhaopin.com
+git config
+git config -l
+git status
+git checkout
+git checkout --help
+git checkout
+pip install pyautogui
+cd zhilian\
+mitmdump -s list_proxy.py -p 12120 ~http
+mitmdump -s list_proxy.py -p 12120 ~http ~u rd5.zhaopin.com
+cd D:\Projects\智联招聘\zhilian
+git init
+git commit -m '改用requests爬取列表'
+git status
+mitmdump -s list_proxy.py -p 12120  ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopon.com ~http
+mitmdump -s list_proxy.py -p 12120 ~u rd5.zhaopin.com ~http
+cd D:\Projects\newrank\newrankSpider
+git add -A .
+git commit -m '关键词改为从文件读取'
+python get_publish_detail2.py 
+python get_user_info_1.py 
+\git status
+git flog
+git commit -m '保存当前，准备返回之前从数据库读取关键词'
+git revert -n a233bf245ae90b5e8d247f8a19e7885e75de74ab
+git add -A ./
+git commit -m '恢复成功'
+git status
+git revert -n cd5dedba22ffe9fd1ffcb3aac4ff3c792e19c4fd
+git reset --hard a233bf
+git log
+git reflog
+git reset --hard cd5dedb
+cd ..
+scrapy startproject elemeSpider
+scrapy genspider search
+scrapy genspider search ele.me
+H
+scrapy crawl search
+scrapy genspider list ele.me
+scrapy crawl list
+clear
+activate Spider3.6
+deactivate
+activate Spider3.4
+cd d:\Projects\newrank\newrankSpider\
+scrapy crawl detail
+scrapy crawl history_name
+cd d:/
+cd elemeSpider\
+cdh
+cd desktop
+cd xhs_week\
+ls
+python get_user_publish.py 
+python get_publish_detail.py 
+python getkolinfo.py 
+cd d:\elemeSpider\
+scrapy crawl List
+cdh
+cd Desktop\elemeSpider\log\
+ls
+tail -n 5 -f scrapy_2019_3_14.log 
+python getkolinfo.py 
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl List
+scrapy crawl menu
+cdh
+cd Desktop\elemeSpider\log\
+ls
+tail -n 5 -f scrapy_2019_3_14.log 
+python getkolinfo.py 
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl menu
+scrapy crawl List
+activate Spider3.4
+scrapy crawl List
+scrapy crawl menu
+tail -n 5 -f scrapy_2019_3_15.log 
+ls
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..
+python unwxapkg3.py a.wxapkg 
+clear
+python getkolinfo.py 
+cd d:\elemeSpider\
+scrapy crawl List
+cdh
+cd Desktop\elemeSpider\log\
+ls
+tail -n 5 -f scrapy_2019_3_14.log 
+python getkolinfo.py 
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl List
+scrapy crawl menu
+cdh
+cd Desktop\elemeSpider\log\
+ls
+tail -n 5 -f scrapy_2019_3_14.log 
+python getkolinfo.py 
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl menu
+scrapy crawl List
+scrapy crawl List
+scrapy crawl menu
+tail -n 5 -f scrapy_2019_3_15.log 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+activate Spider3.4
+ls
+deactivate 
+activate Spider3.6
+python get_publish_detail.py 
+git init
+git add -A .
+git rm --cached .gitignore
+git rm --cached .idea/
+git rm -r --cached .idea/
+git reflog
+git add -A ./
+git commit -m '把所有的程序改成多线程模式'
+clear
+git status
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+tail -n 5 -f scrapy_2019_3_18.log 
+tail -n 5 -f scrapy_2019_3_19.log 
+tail -n 5 -f scrapy_2019_3_20.log 
+tail -n 10 -f scrapy_2019_3_21.log 
+ls
+tail -n 50 -f scrapy_2019_3_21_15.log 
+python getkolinfo.py 
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl menu
+scrapy crawl List
+scrapy crawl menu
+tail -n 5 -f scrapy_2019_3_15.log 
+ls
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+activate Spider3.4
+scrapy crawl List
+clear
+deactivate
+activate Spider3.4
+cd d:/
+cd elemeSpider\
+cdh
+cd desktop
+cd xhs_week\
+ls
+python getkolinfo.py 
+cd d:\elemeSpider\
+scrapy crawl List
+cdh
+cd Desktop\elemeSpider\log\
+ls
+tail -n 5 -f scrapy_2019_3_14.log 
+python getkolinfo.py 
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl List
+scrapy crawl menu
+cd Desktop\elemeSpider\log\
+ls
+tail -n 5 -f scrapy_2019_3_14.log 
+python getkolinfo.py 
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl menu
+scrapy crawl List
+scrapy crawl List
+scrapy crawl menu
+tail -n 5 -f scrapy_2019_3_15.log 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd d:\Projects\newrank\newrankSpider\
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+activate Spider3.6
+cdh
+cd Desktop\xhs_crawl\
+python get_list.py 
+python getTabKolInfo.py 
+python getcustomlist.py 
+ls
+python get_user_publish.py 
+python get_publish_detail.py 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..\xhs_node\
+ls
+node index.js 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..\xhs_node\
+node index.js 
+activate Spider2.7
+cd d:\Projects\KOL\meizhuang\
+scrapy crawl meipai_1124
+cd ..
+ls
+cd guimi_0803\
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+scrapy crawl history_name
+lsof -Pti :8000
+lsof
+cd d:\elemeSpider\
+activate Spider3.4
+scrapy crawl menu
+scrapy crawl List
+scrapy crawl List
+scrapy crawl menu
+tail -n 5 -f scrapy_2019_3_15.log 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+activate Spider3.6
+cd Desktop\xhs_crawl\
+python get_list.py 
+python getTabKolInfo.py 
+python getcustomlist.py 
+ls
+python get_user_publish.py 
+python get_publish_detail.py 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..\xhs_node\
+ls
+node index.js 
+cdh
+cd Desktop\leshiSpider\
+activate Spider3.4
+mv *.mp4 e:\安卓逆向视频\
+cd d:\Projects\newrank\newrankSpider\
+cd ..
+cd 月更爬虫\
+cd newrankSpider\
+scrapy crawl search
+scrapy crawl detail
+clear
+scrapy crawl history_name
+scrapy crawl history_name
+activate Spider3.6
+cdh
+cd Desktop\xhs_crawl\
+python get_list.py 
+python getTabKolInfo.py 
+python getcustomlist.py 
+ls
+python get_user_publish.py 
+python get_publish_detail.py 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..\xhs_node\
+ls
+node index.js 
+activate Spider3.4
+scrapy crawl List
+it
+git add -A ./
+git commit -m '0322进行程序整合'
+git status
+clear
+cdh
+cd Desktop\
+cd elemeSpider\
+cd log
+ls
+tail -n -f 10 scrapy_2019_3_22_16.log 
+tail -n 10 -f scrapy_2019_3_22_16.log 
+tail -n 10 -f scrapy_2019_3_26_19.log 
+tail -n 10 -f scrapy_2019_3_27_19.log 
+tail -n 10 -f scrapy_2019_3_27_ 
+tail -n 10 -f scrapy_2019_3_27_10.log 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd d:\Projects\newrank\newrankSpider\
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+cdh
+cd Desktop\xhs_crawl\
+python getTabKolInfo.py 
+python getcustomlist.py 
+ls
+python get_user_publish.py 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..\xhs_node\
+node index.js 
+activate Spider3.6
+python get_kol_detail.py 
+clear
+cd ../
+cd xhs_oreal\
+python get_list.py 
+ls
+python get_publish_detail.py 
+cd ..\xhs_node\
+node index.js 
+ls
+node index.js
+python getTabKolInfo.py 
+python getcustomlist.py 
+ls
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..\xhs_node\
+node index.js 
+clear
+cd ../
+cd xhs_oreal\
+python get_list.py 
+ls
+cd ..\xhs_node\
+node index.js 
+node index.js
+cd ..\xhs_week\
+activate Spider3.6
+python get_user_publish.py 
+mkdir notedetail
+mv 5* notedetail/
+ls
+python get_kol_detail.py 
+python get_publish_detail.py 
+activate Spider3.4
+cd d:\Projects\newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+node index.js
+tail -n 10 -f scrapy_2019_3_27_10.log 
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd d:\Projects\newrank\newrankSpider\
+activate Spider3.4
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+cdh
+cd Desktop\xhs_crawl\
+python getTabKolInfo.py 
+python getcustomlist.py 
+ls
+tail -n -5 scrapy_2019_3_18.log 
+tail -n -5 -f scrapy_2019_3_18.log 
+cd ..\xhs_node\
+node index.js 
+cd ../
+cd xhs_oreal\
+python get_list.py 
+ls
+cd ..\xhs_node\
+node index.js 
+node index.js
+activate Spider3.6
+clear
+cd ..
+cd xhs_six\
+python get_comment.py 
+cd ..\xhs_week\
+python get_user_publish.py 
+python get_publish_detail.py 
+python get_kol_detail.py 
+ls
+python basicinfo_out.py 
+python publish_out.py 
+cd ..\xhs_six\
+ll
+ls 
+python get_user_detail.py 
+whereis git
+which git
+cd /cmd/git
+activate Spider3.4
+pip list
+python get_comment.py 
+cd ..\xhs_week\
+python get_user_publish.py 
+python get_kol_detail.py 
+python basicinfo_out.py 
+python publish_out.py 
+cd ..\xhs_six\
+ll
+ls 
+python get_user_detail.py 
+activate Spider3.6
+python get_list.py 
+ls
+python get_publish_detail.py 
+node index.js 
+cd ..\xhs_week\
+python get_user_publish.py 
+python get_publish_detail.py 
+python get_kol_detail.py 
+python basicinfo_out.py 
+python publish_out.py 
+cd ..\xhs_six\
+ll
+ls 
+python get_user_detail.py 
+activate Spider3.6
+pip list
+pip --help
+pip uninstall scrapy
+pip install Geohash'
+clear
+pip install service_identity
+deactivate 
+conda list
+conda create python3.6 python=3.6
+conda create -n python3.6 python=3.6
+activate python3.6
+pip install pywin32
+python -m pip install --upgrade pip
+cd ..
+ls
+pip install Twisted-18.9.0-cp36-cp36m-win_amd64.whl 
+pip install scrapy
+pip install pymongo
+cd elemeSpider\
+pip install Geohash
+scrapy crawl List
+cd elemeSpider\
+pip install Geohash
+scrapy crawl List
+activate Spider3.6
+ls
+python get_publish_detail.py 
+node index.js
+python -m pip install --upgrade pip
+ls
+pip install Twisted-18.9.0-cp36-cp36m-win_amd64.whl 
+pip install scrapy
+pip install pymongo
+cd elemeSpider\
+pip install Geohash
+scrapy crawl List
+cd elemeSpider\
+pip install Geohash
+scrapy crawl List
+activate Spider3.6
+ls
+python get_publish_detail.py 
+node index.js
+cdh
+cd Desktop\elemeSpider\
+activate python3.6
+scrapy crawl menu
+pip install requests
+clear
+cd ..
+scrapy startproject baiduSpider
+scrapy genspider baidu
+scrapy genspider baidu baidu.com
+conda-env list
+conda env remove -n root
+cd baiduSpider\
+scrapy crawl baidu
+conda create -n python3.7 python=3.7
+activate python3.7
+pip list
+conda list
+pip install --upgrade vc
+pip install pywin32
+pip install Twisted
+python get_publish_detail.py 
+node index.js
+cd ..
+node Untitled-1.js 
+node
+cd elemeSpider\
+pip install Geohash
+scrapy crawl List
+cd elemeSpider\
+pip install Geohash
+scrapy crawl List
+ls
+python get_publish_detail.py 
+node index.js
+activate Spider3.6
+scrapy crawl menu
+conda env --help
+conda env remove python3.6
+conda-env remove python3.6
+conda-env -h remove
+conda-env remove
+deactivate
+conda-env remove -n python3.6
+conda env list
+conda-env remove -n Spider3.6
+conda-evn list
+conda-env -list
+conda-env list
+conda create -n python3.6 python=3.6.8
+activate python3.6
+pip install --upgrade pip
+activate Spider3.7
+activate python3.7
+pip install twisted
+conda env --help
+conda env remove python3.6
+conda-env remove python3.6
+conda-env -h remove
+conda-env remove
+deactivate
+conda-env remove -n python3.6
+conda env list
+conda-env remove -n Spider3.6
+conda-evn list
+conda-env -list
+conda-env list
+conda create -n python3.6 python=3.6.8
+pip install --upgrade pip
+activate Spider3.7
+activate python3.7
+pip install twisted
+activate python3.6
+cdh
+cd Desktop\
+cd downloader\
+python eleme.py 
+pip list
+cd ..
+ls
+clear
+node xiami_s.js 
+cd D:\Projects\接手的项目\ele\gps
+rm *.pyc
+node
+activate python3.7
+pip install twisted
+cd downloader\
+python eleme.py 
+pip list
+cd ..
+clear
+node xiami_s.js 
+cd D:\Projects\接手的项目\ele\gps
+rm *.pyc
+node
+cd d:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+cdh
+cd Desktop\
+ls
+node xiami_s_1.js 
+node xiami_s_1.js 
+cdh
+cd desktop
+activate python3.6
+pip install ipython
+cd dianping\
+ls
+text = open('strle.css', 'r', encoding='utf-9').read()
+ipython
+cdh
+cd desktop
+pip install ipython
+cd dianping\
+text = open('strle.css', 'r', encoding='utf-9').read()
+ipython
+cd ..
+ls
+conda activate python3.6
+conda env list
+activate python3.6
+pip install pymysql
+python dianping.py
+cd d:\Projects\ele\downloader\
+python menu.py
+python menu.py
+cdh
+cd Desktop\
+adb devices
+adb connect 127.0.0.1:62001
+adb shell
+ls
+activate python3.6
+python unwxapkg3.py 小红书.wxapkg 
+ls
+python unwxapkg3.py 小红书.wxapkg 
+cd d:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+python unwxapkg3.py 小红书.wxapkg 
+cd d:\Projects\newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+activate spider2.7
+cd d:\Projects\KOL\guimi_0803\
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+cd ..\meizhuang\
+scrapy crawl meipai_1124
+clear
+deactivate
+activate python3.6
+ipython
+cd D:\android-ndk-r19c\toolchains\llvm\prebuilt\windows-x86_64\bin
+aarch64-linux-android21-clang -target aarch64-linux-androideabi c:\Users\p8780\Desktop\app6.c  -o app6 -fPIE -pie
+aarch64-linux-android21-clang  c:\Users\p8780\Desktop\app6.c  -o app6 -fPIE -pie
+cdh
+cd Desktop\
+ls
+aarch64-linux-android-objdump.exe -d app6 | grep "<for1>:" -A 20
+aarch64-linux-android-objdump
+aarch64-linux-android-objdump
+cdh
+aarch64-linux-android-objdump.exe
+aarch64-linux-android-objdump.exe | grep
+cd desktop
+aarch64-linux-android-objdump.exe -d app6 
+aarch64-linux-android-objdump.exe -d app6  | grep "<for1>:" -A 20
+aarch64-linux-android-objdump.exe --help
+aarch64-linux-android21-clang  c:\Users\p8780\Desktop\app6.c  -o app6 -fPIE -pie
+aarch64-linux-android-objdump.exe -d app6 | grep "<for1>:" -A 20
+aarch64-linux-android-objdump
+cdh
+cd Desktop\
+ls
+node youku.js
+node youku1.js
+activate python3.6
+python unwxapkg3.py 小红书.wxapkg 
+ls
+python unwxapkg3.py 小红书.wxapkg 
+cd d:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+python unwxapkg3.py 小红书.wxapkg 
+cd d:\Projects\newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl history_name
+activate spider2.7
+cd d:\Projects\KOL\guimi_0803\
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+cd ..\meizhuang\
+scrapy crawl meipai_1124
+clear
+deactivate
+ipython
+cd D:\android-ndk-r19c\toolchains\llvm\prebuilt\windows-x86_64\bin
+aarch64-linux-android21-clang -target aarch64-linux-androideabi c:\Users\p8780\Desktop\app6.c  -o app6 -fPIE -pie
+aarch64-linux-android21-clang  c:\Users\p8780\Desktop\app6.c  -o app6 -fPIE -pie
+cdh
+cd Desktop\
+ls
+aarch64-linux-android-objdump.exe -d app6 | grep "<for1>:" -A 20
+aarch64-linux-android-objdump
+cd d:\Projects\youkuSpider\
+activate python3.6
+scrapy crawl detail
+scrapy crawl history_name
+python unwxapkg3.py 小红书.wxapkg 
+cd d:\Projects\newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+activate spider2.7
+cd d:\Projects\KOL\guimi_0803\
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+cd ..\meizhuang\
+scrapy crawl meipai_1124
+clear
+deactivate
+activate python3.6
+ipython
+cd D:\android-ndk-r19c\toolchains\llvm\prebuilt\windows-x86_64\bin
+aarch64-linux-android21-clang -target aarch64-linux-androideabi c:\Users\p8780\Desktop\app6.c  -o app6 -fPIE -pie
+aarch64-linux-android21-clang  c:\Users\p8780\Desktop\app6.c  -o app6 -fPIE -pie
+cdh
+cd Desktop\
+aarch64-linux-android-objdump.exe -d app6 | grep "<for1>:" -A 20
+aarch64-linux-android-objdump
+node youku.js
+cd d:\Projects\视频\youku视频
+cd node
+ls
+node index.js
+node index.js
+ls
+apktool d ad68ced54bfcfdc17851a52e1170d7a7_market_5.7.0_20190418214415.apk -o outdir
+cd node
+ls
+node index.js
+cdh
+cd Desktop\
+apktool d .\ad68ced54bfcfdc17851a52e1170d7a7_market_5.7.0_20190418214415.apk -o outdir
+cd d:\Projects\newrank\
+cd newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+apktool d .\ad68ced54bfcfdc17851a52e1170d7a7_market_5.7.0_20190418214415.apk -o outdir
+bash
+wsl
+scrapy crawl detail
+apktool d .\ad68ced54bfcfdc17851a52e1170d7a7_market_5.7.0_20190418214415.apk -o outdir
+bash
+wsl
+activate python3.6
+python unwxapkg3.py _1992529666_225.wxapkg ./xhs
+npm search window
+npm install -g window
+node
+npm install --help
+node install window
+npm install window
+node hello.js
+npm install -g window
+node
+npm install --help
+node install window
+npm install window
+node hello.js
+ping 10.153.89.250
+ping 10.153.89.251
+cd d:\Projects\newrank\newrankSpider\
+python
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+deactivate
+activate Spider2.7
+cd d:\Projects\KOL\
+ls
+cd guimi_0803\
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+git status
+clear
+chcp
+node install window
+npm install window
+node hello.js
+cd ..
+cd meizhuang\
+ls
+activate Spider2.7
+scrapy crawl meipai_1124
+activate python3.6
+scrapy crawl cat
+scrapy crawl cat
+ls
+ls | more
+chcp
+clear
+clear
+activate Spider2.7
+history
+history
+cd d:\Projects\视频\leshiSpider\
+activate python3.6
+scrapy crawl detail
+d:\Projects\youkuSpider
+cd utils\
+cd d:\Projects\视频\
+cd youku视频\
+cd node
+ls
+node index.js
+more
+chcp
+clear
+activate Spider2.7
+history
+cd d:\Projects\youkuSpider\
+activate python3.6
+cd ..
+cd youkuSpider\
+clear
+scrapy crawl detail
+scrapy crawl youku
+scrapy crawl comment
+clear
+scrapy crawl detail
+scrapy crawl youku
+scrapy crawl comment
+cd d:\Projects\小红书系列爬数\xhs_week\
+activate python3.6
+python get_publish_detail.py 
+ls
+python get_kol_detail.py 
+scrapy crawl comment
+cd d:\Projects\小红书系列爬数\xhs_node\
+ls
+clear
+node index.js 
+node index.js
+node index.js 
+activate python3.6
+ls
+python get_publish_detail.py 
+LS
+python get_kol_detail.py 
+wsl
+activate python3.6
+ipython
+scrapy crawl comment
+cd d:\Projects\小红书系列爬数\xhs_node\
+ls
+clear
+node index.js 
+node index.js
+node index.js 
+activate python3.6
+LS
+wsl
+ipython
+activate python3.6
+ls
+python get_user_publish.py 
+python get_publish_detail.py 
+python get_kol_detail.py 
+activate python3.6
+cdh
+cd Desktop\dalianEcology\
+scrapy genspider poi_detail amap.com
+LS
+wsl
+ipython
+ls
+python get_user_publish.py 
+python get_publish_detail.py 
+python get_kol_detail.py 
+activate python3.6
+cdh
+cd desktop
+scrapy startproject dalianEcology
+cd dalianEcology
+scrapy genspider search_poi_by_typecode amap.com
+scrapy genspider get_type_count amap.com
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+scrapy genspider search_poi_by_searchpoint
+scrapy genspider search_poi_by_searchpoint amap.com
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+scrapy genspider get_type_count amap.com
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+scrapy genspider search_poi_by_searchpoint
+scrapy genspider search_poi_by_searchpoint amap.com
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+cd ..
+cd frida_example\
+activate python3.7
+ls
+python example.py \
+python example.py 
+LS
+wsl
+ipython
+python get_user_publish.py 
+python get_publish_detail.py 
+python get_kol_detail.py 
+activate python3.6
+cdh
+cd desktop
+scrapy startproject dalianEcology
+cd dalianEcology
+scrapy genspider search_poi_by_typecode amap.com
+scrapy genspider get_type_count amap.com
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+scrapy genspider search_poi_by_searchpoint
+scrapy genspider search_poi_by_searchpoint amap.com
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+conda env
+conda-env remove 'python3.7'
+conda env remove python3.7
+cond-env -h
+conda-env -h
+conda remove python3.7
+activate base
+activate root
+conda-env remove python3.7
+conda-env remove
+deactivate
+conda-env remove -n python3.7 --all
+conda-env remove -h
+conda-env remove -n python3.7
+conda-env list
+conda create -h
+conda create -n python3.7 python=3.7
+activate python3.7
+pip install --upgrade
+pip -h
+pip install -h
+pip install frida-tools
+pip list
+pip search pyssl
+pip search openssl
+clear
+cd ..
+cd frida_example\
+python example.py 
+adb connect 127.0.0.1:65001
+adb devices
+adb connect 127.0.0.1:52001
+adb connect 127.0.0.1:62001
+ls
+adb push .\frida-server-12.6.4-android-x86 /data/tmp
+adb push frida-server-12.6.4-android-x86 /data/local/tmp/frida-server-12.6.4
+adb shell
+activate python3.7
+pip install --upgrade
+pip -h
+pip install -h
+pip install frida-tools
+pip list
+pip search pyssl
+pip search openssl
+cd frida_example\
+python example.py 
+adb connect 127.0.0.1:65001
+adb devices
+adb connect 127.0.0.1:52001
+adb connect 127.0.0.1:62001
+adb push .\frida-server-12.6.4-android-x86 /data/tmp
+adb push frida-server-12.6.4-android-x86 /data/local/tmp/frida-server-12.6.4
+adb shell
+cd d:\Projects\汽车\
+cd maodouSpider\
+activate python3.6
+scrapy crawl brand
+scrapy crawl get_brand
+scrapy crawl get_style
+scrapy crawl get_price
+cd ../
+cd chexunSpider\
+scrapy crawl page_list
+scrapy crawl detail
+cd ..
+cd pcautoSpider\
+scrapy crawl get_model_list
+cdj
+cdh
+cd desktop
+scrapy startproject shenzhenEcology
+cd shenzhenEcology\
+ls
+scrapy genspider get_type_count amap.com
+scrapy crawl get_type_count
+scrapy genspider search_poi_by_typecode amap.com
+scrapy crawl search_poi_by_typecode
+scrapy genspider search_poi_by_searchpoint amap.com
+scrapy crawl search_poi_by_searchpoint
+scrapy genspider poi_detail amap.com
+clear
+scrapy crawl poi_detail
+amap.com
+scrapy genspider get_type_count amap.com
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+scrapy genspider search_poi_by_searchpoint
+scrapy genspider search_poi_by_searchpoint amap.com
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+conda env
+conda-env remove 'python3.7'
+conda env remove python3.7
+cond-env -h
+conda-env -h
+conda remove python3.7
+activate base
+activate root
+conda-env remove python3.7
+conda-env remove
+deactivate
+conda-env remove -n python3.7 --all
+conda-env remove -h
+conda-env remove -n python3.7
+conda-env list
+conda create -h
+conda create -n python3.7 python=3.7
+pip install --upgrade
+pip -h
+pip install -h
+pip install frida-tools
+pip list
+pip search pyssl
+pip search openssl
+cd ..
+cd frida_example\
+adb connect 127.0.0.1:65001
+adb push .\frida-server-12.6.4-android-x86 /data/tmp
+adb push frida-server-12.6.4-android-x86 /data/local/tmp/frida-server-12.6.4
+adb pull /mnt/shell/emulated/0/UCDownloads/xiaohongshu.apk ./xiaohongshu.apk
+python
+activate python3.7
+firda-ps -U
+adb push .\frida-server-12.6.4-android-x86 /data/local/tmp/frida-server
+adb shell chmod 777 /data/local/tmp/frida-server
+./frida-server &
+frida-server &
+ll
+adb connect 127.0.0.1:52001
+tasklist -h
+tasklist /?
+netstat /?
+netstat -ano
+netstat -ano | findstr 6568
+adb connect 52001
+kill -9 10560
+netstat -ano | findstr 5555
+adb cibbect 26966
+adb connect 26966
+tasklist
+tasklist /v
+netstat -ano | findstr 13804
+adb connect 127.0.0.1:26966
+adb connect 62001
+adb connect 127.0.0.1:62001
+adb shell
+ls
+python example.py 
+adb push ./frida-server-12.6.5-android-x86_64 /data/local/tmp/frida-server
+adb push ./frida-server-12.6.5-android-arm /data/local/tmp/frida-server-12.6.5-android-arm 
+adb push ./frida-server-12.6.5-android-x86 /data/local/tmp/frida-server
+frida -U air.tv.douyu.android
+frida -U 4437
+frida -U com.tencent.mm
+frida -U 5520
+clear
+pip search frida-tools
+pip install --update frida-tools
+pip install --upgrade frida-tools
+pip install --upgrade frida
+frida-trace -i open -U -f air.tv.douyu.android
+frida-trace --help
+l
+frida-ps -U
+adb devices
+frida-trace -i open -U -f air.tv.douyu.android
+frida-trace --help
+l
+frida-ps -U
+adb devices
+cd ..
+activate Python3.6
+scrapy startproject zhuishuSpider
+cd zhuishuSpider\
+scrapy genspider catList
+scrapy genspider catList b02.zhuishushenqi.com
+scrapy crawl catlist
+scrapy crawl catList
+scrapy genspider detail api03icqj.zhuishushenqi.com
+scrapy crawl detail
+scrapy genspider detail api03icqj.zhuishushenqi.com
+scrapy crawl detail
+cd ..
+cd frida_example\
+ls
+activate python3.7
+python example.py 
+clear
+frida -U -f com.lechuan.midunovel 
+frida -U -i b -f com.lechuan.midunovel 
+frida -U  b -f com.lechuan.midunovel 
+frida -U  -f com.lechuan.midunovel 
+frida-ps -U
+frida -U -f com.lechuan.midunovel
+frida-trace -i "b" -U com.android.chrome
+frida-trace -i "b" -U com.lechuan.midunovel
+frida-trace -i b -U com.lechuan.midunovel
+activate python3.6
+scrapy crawl detail
+frida -U -f com.lechuan.midunovel
+frida-trace -i "b" -U com.android.chrome
+frida-trace -i "b" -U com.lechuan.midunovel
+frida-trace -i b -U com.lechuan.midunovel
+activate python3.6
+scrapy crawl detail
+cd /data/local/tmp
+adb devices
+adb shell
+y crawl detail
+scrapy genspider detail api03icqj.zhuishushenqi.com
+scrapy crawl detail
+frida -U -f com.lechuan.midunovel 
+frida -U -i b -f com.lechuan.midunovel 
+frida -U  b -f com.lechuan.midunovel 
+frida -U  -f com.lechuan.midunovel 
+frida-trace -i "b" -U com.android.chrome
+frida-trace -i "b" -U com.lechuan.midunovel
+frida-trace -i b -U com.lechuan.midunovel
+cd d:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+activate python3.7
+cdh
+cd Desktop\
+adb devices
+adb push .\frida-server-12.6.5-android-arm64 
+adb push .\frida-server-12.6.5-android-arm64 /data/local/tmp
+adb shell
+adb push .\frida-server-12.6.5-android-arm64 /data/local/tmp/frida-server
+frida-ps -U
+adb uninstall com.miui.video
+adb install midu20.apk 
+frida -U -f com.lechuan.midunovel
+clear
+cd ..
+mv douyu.apk .\frida_example\
+cd frida_example\
+adb install douyu.apk 
+ls
+python example.py 
+python example.py 
+activate python3.6
+cd ..
+scrapy startproject alading
+cd alading\
+ls
+scrapy genspider detail zhishuapi.aldwx.com
+scrapy crawl detail
+scrapy genspider detail zhishuapi.aldwx.com
+scrapy crawl detail
+dotnet
+cd Conso
+cdh
+cd desktop
+ls
+cd ConsoleApplication1\
+dotnet add package ServiceStack.Redis --version 5.5.0
+csc
+cd C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\Shortcuts
+ls
+csc
+clear
+cdh
+activate python3.6
+cd d:\Projects\ele\ele
+scrapy genspider shopinfo_last_month restapi.ele.me
+scrapy crawl shopinfo_last_month
+pip install redis
+pip install redis
+cd d:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+pip install redis
+pip install redis
+cd d:\Projects\newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+cd d:/ele/ele/
+cd d:\Projects\ele\ele
+activate python3.6
+scrapy genspider shop_pic fuss10.elemecdn.com
+scrapy crawl crawl shop_pic
+rar *png
+rm *png
+scrapy crawl shop_pic
+cd d:/proj
+cd d:\Projects\
+ls
+cd d:/proj
+cd d:\Projects\
+cd d:\Projects\小
+cd 小红书系列爬数\
+cd xhs_node
+ls
+node md5.js
+clear
+cd xhs_node
+ls
+node md5.js
+cdh
+conda create -n python3.6 python=3.6
+ping www.baidu.com
+clear
+ls
+node md5.js
+cdh
+conda create -n python3.6 python=3.6
+ping www.baidu.com
+conda --help
+activate base
+conda create -n python3.6 python=3.6.8
+activate python3.6
+conda update -n base -c defaults conda
+condacreate -n python3.7 python=3.7
+conda create -n python3.7 python=3.7
+clear
+activate python3.6
+pip install requests
+pip install pymongo
+pip install redis
+clear
+pip list
+pip list
+activate python3.6
+pip install twisted
+pip install scrapy
+activate python3.7
+pip install frida-tools
+clear
+pip install twisted
+pip install scrapy
+activate python3.7
+pip install frida-tools
+activate python3.6
+pip install win32
+pip install pywin32
+scrapy crawl detail
+clear
+pip install twisted
+pip install scrapy
+activate python3.7
+pip install frida-tools
+activate python3.6
+scrapy startproject dalianEcology
+ls
+rm -r dalianEcology\
+scrapy startproject ningboEcology
+cd ningboEcology\
+scrapy genspider get_type_count amap.com
+scrapy genspider search_poi_by_searchpoint amap.com
+scrapy genspider search_poi_by_typecode amap.com
+scrapy genspider poi_detail amap.com
+clear
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+pip install frida-tools
+clear
+pip install twisted
+activate python3.7
+pip install frida-tools
+activate python3.6
+pip install win32
+scrapy crawl detail
+cd ..
+conda create python2.7 python=2.7
+activate base
+conda create -n python2.7 python=2.7
+conda activate python2.7
+chcp 936
+pip install --upgrade pip
+pip install pymongo
+pip install demjson
+pip install redis
+pip install Twisted-19.2.1-cp27-cp27m-win_amd64.whl 
+pip install scrapy
+clear
+cd "e:\Projects\KOL\guimi_0803\
+pip install pywin32
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+activate python3.6
+scrapy genspider user_detail
+scrapy genspider user_detail meipai.com
+scrapy genspider publish_detail meipai.com
+pip install pymongo
+pip install demjson
+pip install redis
+pip install Twisted-19.2.1-cp27-cp27m-win_amd64.whl 
+pip install scrapy
+cd "e:\Projects\KOL\guimi_0803\
+pip install pywin32
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+activate base
+ipython
+cd e:\frida_example\
+ls
+adb shell
+adb pull /sdcard/wandoujia/downloader/apk/com.meitu.meipaimv_144115188476641288_8.2.0_8205.apk ./com.meitu.meipaimv.apk
+clear
+cd e:\Projects\KOL\meizhuang\
+activate python3.6
+scrapy crawl meipai_1124
+cdh
+cd deskto
+cd Desktop\
+cd meipai\
+scrapy crawl list
+scrapy crawl user_detail
+pip install pymongo
+pip install demjson
+pip install redis
+pip install Twisted-19.2.1-cp27-cp27m-win_amd64.whl 
+pip install scrapy
+cd "e:\Projects\KOL\guimi_0803\
+pip install pywin32
+scrapy crawl guimi_20170221
+scrapy crawl guimi_0802
+cd e:\Projects\KOL\meizhuang\
+activate python2.7
+chcp 936
+scrapy crawl meipai_1124
+cd e:
+cd e:\安卓逆向
+cd ..
+cd frida_example\
+adb connect
+adb devices
+adb push .\FiddlerRoot.cer /data/local/tmp
+ls
+adb shell
+adb push .\FiddlerRoot.cer /sdcard
+adb push .\FiddlerRoot.cer /sdcard/FiddlerRoot.cer
+activate base
+jupyter notebook
+clear
+activate python3.6
+cdh
+cd desktop
+scrapy startproject meipai
+cd meipai
+scrapy genspider list
+scrapy genspider list api.meipai.com
+cd meipai
+scrapy genspider list
+scrapy genspider list api.meipai.com
+cd e:\Projects\
+cd 视频\
+cd youku视频\
+cd node
+ls
+node index.js
+node index.js
+scrapy genspider list
+scrapy genspider list api.meipai.com
+cd e:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+cd e:\Projects\
+cd youkuSpider\
+ls
+scrapy crawl youku
+scrapy genspider list
+scrapy genspider list api.meipai.com
+cd e:\Projects\newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl history_name
+cd e:\Projects\
+cd youkuSpider\
+scrapy crawl youku
+node index.js
+cd e:\Projects\小程序\alading\
+activate python3.6
+scrapy crawl detail
+pip install geohash
+ clear
+cd e:\Projects\小红书系列爬数
+cd xhs_week\
+clear
+ls
+python get_user_publish.py 
+python get_publish_detail.py 
+python get_kol_detail.py 
+cd ..
+cd xhs_node\
+ls
+node index.js
+scrapy crawl youku
+activate python3.6
+scrapy crawl detail
+scrapy crawl comment
+scrapy crawl comment
+activate python3.6
+cd e:\Projects\ele\ele
+scrapy genspider cat www.ele.me
+scrapy crawl cat
+clear
+activate python3.6
+cd e:\Projects\ele\ele
+scrapy genspider cat www.ele.me
+scrapy crawl cat
+clear
+ls
+adb devices
+adb push FiddlerRoot.cer /data/local/tmp/FiddlerRoot.cer
+adb shell
+activate python3.6
+scrapy crawl detail
+scrapy crawl comment
+scrapy crawl comment
+activate python3.6
+cd e:\Projects\ele\ele
+scrapy genspider cat www.ele.me
+scrapy crawl cat
+activate python3.7
+frida -U -f com.aplum.androidapp -l frida-android-repinning_1.js --no-pause
+clear
+frida-ps -U
+pip list
+ls
+adb push frida-server-12.6.7-android-arm64 /data/loca/tmp/frida-server
+frida -U -f com.realnet.zhende -l frida-android-repinning_1.js --no-pause
+adb push frida-server-12.6.7-android-arm64 /data/loca/tmp/frida-server
+frida -U -f com.realnet.zhende -l frida-android-repinning_1.js --no-pause
+cdh
+cd Desktop\
+activate python3.6
+scrapy startproject beijingEcology
+cd beijingEcology\
+ls
+scrapy genspider poi_detail
+scrapy genspider poi_detail amap.com
+scrapy crawl poi_detail
+cd ..\xhs_node\
+ls
+python index.js 
+node index.js 
+frida -U -f com.realnet.zhende -l frida-android-repinning_1.js --no-pause
+cdh
+cd Desktop\
+scrapy startproject beijingEcology
+cd beijingEcology\
+scrapy genspider poi_detail
+scrapy genspider poi_detail amap.com
+scrapy crawl poi_detail
+cd e:\Projects\小红书系列爬数
+cd xhs_week\
+activate python3.6
+python get_publish_detail.py 
+python get_note_user.py 
+python get_kol_detail.py 
+clear
+ls
+python publish_out.py 
+python publish_out.py 
+cd e:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+vim C:\Users\p8780\AppData\Local\Continuum\anaconda3\envs\python3.6\lib\site-packages\urllib3\connectionpool.py
+vim C:\Users\p8780\AppData\Local\Continuum\anaconda3\envs\python3.6\lib\site-packages\urllib3\connectionpool.py + 851
+scrapy crawl history_name
+activate python3.6
+cd ..\xhs_week\
+ls
+python get_user_publish.py 
+node index.js
+activate python3.6
+pip install autopep8
+clear
+ls
+python publish_out.py 
+python publish_out.py 
+cd e:\Projects\newrank\newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+vim C:\Users\p8780\AppData\Local\Continuum\anaconda3\envs\python3.6\lib\site-packages\urllib3\connectionpool.py
+vim C:\Users\p8780\AppData\Local\Continuum\anaconda3\envs\python3.6\lib\site-packages\urllib3\connectionpool.py + 851
+scrapy crawl history_name
+cd ..\xhs_week\
+ls
+python get_user_publish.py 
+node index.js
+cdh
+cd desktop
+activate python3.6
+scrapy startproject meipai
+cd meipai
+scrapy genspider list
+scrapy genspider list www.meipai.com
+pip install pylint
+clear
+scrapy crawl list
+scrapy genspider detail www.meipai.com
+scrapy crawl publish_detail
+scrapy genspider user_detail www.meipai.com
+scrapy crawl user_detail
+wsl
+clear
+scrapy crawl user_detail
+cd e:\Projects\小红书系列爬数\xhs_week\
+activate python3.6
+ls
+python get_publish_detail.py 
+python get_kol_detail.py 
+clear
+cd ../
+cd xhs_node\
+node index.js 
+cd ../
+cd xhs_node\
+node index.js 
+activate python3.6
+python get_user_publish.py 
+ls
+python get_publish_detail.py 
+cd xhs_node\
+node index.js 
+adb shell
+node index.js 
+activate python3.6
+activate python3.7
+frida-ps -U
+ls
+frida -U -f me.ele -l frida-android-repinning_1.js --no-pause
+telnet 192.168.0.70 6023
+telnet 192.168.0.70 27017
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+history
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad &
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad 
+python get_user_publish.py 
+ls
+python get_publish_detail.py 
+cd xhs_node\
+node index.js 
+adb shell
+node index.js 
+activate python3.7
+frida-ps -U
+frida -U -f me.ele -l frida-android-repinning_1.js --no-pause
+telnet 192.168.0.70 6023
+telnet 192.168.0.70 27017
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad &
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad 
+cd E:\Projects\ele\ele
+vim .gitignore
+vim .gitignore 
+git config --global user.email 'greatant@163.com'
+git config --global user.name 'guuze'
+git commit -m '2019-07-08'
+cd ..
+cd downloader\
+ls
+git status
+git init
+git add -A ./
+activate python3.6
+pip install demjson
+pip install simplejson
+history
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+nohup java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+nohup java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad >>null
+nohup java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad >>null&
+nohup java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad >>null &
+java -h
+nohup java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad >>null 2>&1 &
+cd ../../
+cd newrank\newrankSpider\
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+cdh
+cd desktop
+scrapy startproject zhengzhouEcology
+adb shell
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad &
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad 
+activate python3.7
+clea
+clear
+history
+frida -U
+adb devices
+frida-ps -U
+frida -U -f me.ele -l frida-android-repinning_1.js --no-pause
+frida-ps -U
+frida -U -f me.ele -l frida-android-repinning_1.js --no-pause
+activate python3.6
+pip install --upgrade scrapy
+pip install -f scrapy
+pip install -h
+pip install scrapy --force-reinstall
+scrapy startproject zhengzhouEcology
+adb shell
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad &
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad 
+activate python3.7
+clea
+history
+frida -U
+adb devices
+frida-ps -U
+frida -U -f me.ele -l frida-android-repinning_1.js --no-pause
+cdh
+cd desktop
+activate python3.6
+scrapy
+pip uninstall scrapy
+deactivate
+conda env remove -n python3.6
+conda env list
+conda create -n python3.6 python=3.6.9
+conda create -n python3.6 python=3.6.8
+conda activate python3.5
+conda activate python3.6
+pip list
+pip install scrapy
+pip install pymongo
+pip install redis
+pip install simplejson
+scrapy -h
+pip install requests
+clear
+import os
+python
+scrapy startproject zhengzhouEcology
+activate python3.65
+activate python3.6
+scrapy startproject zhengzhouEcology
+cd zhengzhouEcology\
+activate python3.65
+scrapy startproject zhengzhouEcology
+activate python3.6
+python setup.py install
+cd ..
+cd zhengzhouEcology\
+scrapyd-deploy -l
+scrapy startproject zhengzhouEcology
+activate python3.65
+scrapy startproject zhengzhouEcology
+cd zhengzhouEcology\
+telnet localhost 6023
+activate python3.6
+pip install scrapy-client
+pip install scrapyd-client
+scrapyd-deploy -l
+pip uninstall scrapyd-client
+clear
+cd ..
+cd scrapyd-client-master\
+ls
+python setup.py install
+import os
+python
+scrapy startproject zhengzhouEcology
+activate python3.65
+scrapy startproject zhengzhouEcology
+cd zhengzhouEcology\
+cdh
+cd desktop\zhengzhouEcology\
+activate python3.6
+pip install pywin32
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+pip install scrapydweb
+clear
+scrapy crawl search_poi_by_searchpoint
+wsl
+wsl
+cd ..
+cd Projects\downloader\
+ls
+git config --global encoding utf-8
+cd E:\cmder\vendor\git-for-windows\etc
+vim gitconfig
+git status
+wsl
+cd e:\frida_example\
+ls
+conda activate python3.6
+activate python3.7
+history
+adb devices
+frida-ps -U
+frida -U -f me.ele -l frida-android-repinning_1.js --no-pause
+cd e:\Projects\downloader\
+git status
+git status
+frida-ps -U
+frida -U -f me.ele -l frida-android-repinning_1.js --no-pause
+cd e:\Projects\downloader\
+git status
+git config --global core.quotepath false
+git config -l
+git add -A ./
+git status
+vim .git\COMMIT_EDITMSG 
+git commit -m '开始七月份一天四次爬取'
+git flog
+git reflog
+clear
+git config --global core.quotepath false
+git config -l
+vim .git\COMMIT_EDITMSG 
+git commit -m '开始七月份一天四次爬取'
+git flog
+git reflog
+cd E:\Projects\小程序\新榜周更\newrankSpider
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+cd ..
+cd 新榜月更
+cd newrankSpider\
+ls
+git add -A ./
+clear
+git commit -m '开始七月份更新'
+git status
+git status
+git config --global core.quotepath false
+git config -l
+git add -A ./
+git status
+vim .git\COMMIT_EDITMSG 
+git commit -m '开始七月份一天四次爬取'
+git flog
+git reflog
+cd 小程序\
+cd 新榜周更
+cd newren
+cd newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+.032cls1
+VLRST
+clear
+scrapy crawl history_name
+cd e:\Projects\农行\
+ls
+cd ningboEcology\
+scrapy genspider search_tingchechang_by_searchpoint restapi.amap.com
+scrapy crawl search_tingchechang_by_searchpoint
+pip install pylint
+cls
+scrapy genspider tingchechang_detail amap.com
+pip install autopep8
+scrapy crawl tingchechang_detail
+adb pull /mnt/sdcard/wandoujia/downloader/apk/com.xingin.xhs_144115188476651418_6.6.0_6060156.apk ./
+adb pull /mnt/sdcard/wandoujia/downloader/apk/com.xingin.xhs_144115188476651418_6.6.0_6060156.apk c:\Users\p8780\Desktop\xhs.apk
+cd ningboEcology\
+scrapy genspider search_tingchechang_by_searchpoint restapi.amap.com
+scrapy crawl search_tingchechang_by_searchpoint
+pip install pylint
+cls
+scrapy genspider tingchechang_detail amap.com
+pip install autopep8
+scrapy crawl tingchechang_detail
+clear
+adb devices
+adb shell
+scrapy genspider tingchechang_detail amap.com
+pip install autopep8
+scrapy crawl tingchechang_detail
+cd e:\frida_example\
+ls
+activate python3.7
+frida -U -f com.dianping.v1 -l frida-android-repinning_1.js --no-pause
+frida-ps -U
+clear
+frida -U -f com.xingin.xhs -l frida-android-repinning_1.js --no-pause
+cd ..
+cd xhs_node
+node index.js
+git reflog
+cd E:\Projects\小红书系列爬数\xhs_six
+ls
+activate python3.6
+vim C:\Users\p8780\AppData\Local\Continuum\anaconda3\envs\python3.6\lib\site-packages\urllib3\connectionpool.py +851
+clear
+python get_comment.py 
+cd ..
+cd xhs_node
+node index.js
+git reflog
+cd E:\Projects\小红书系列爬数\xhs_six
+vim C:\Users\p8780\AppData\Local\Continuum\anaconda3\envs\python3.6\lib\site-packages\urllib3\connectionpool.py +851
+python get_comment.py 
+adb devices
+activate python3.6
+pip install uiautomator2
+python3 -m uiautomator2 init
+ipython
+python -m uiautomator2 init
+pip install --upgrade --pre uiautomator2
+git clone https://github.com/openatx/uiautomator2
+ls
+pip install -h
+cd e:\Projects\downloader\
+git status
+git add -A ./
+git commit -m '爬取确定为白天爬取'
+clear
+adb
+ls
+vim C:\Users\p8780\AppData\Local\Continuum\anaconda3\envs\python3.6\lib\site-packages\urllib3\connectionpool.py +851
+python get_comment.py 
+activate python3.6
+pip install ipython
+pip install --pre weditor
+python -m weditor
+adb devices
+clear
+cd E:\Projects\小程序\ire
+activate python3.6
+scrapy crawl detail
+sdkmanager
+pip install --pre weditor
+python -m weditor
+cd E:\Projects\小程序\ire
+scrapy crawl detail
+sdkmanager
+cdh
+cd desktop
+clear
+adb pull /mnt/sdcard/wandoujia/downloader/apk/com.tencent.mm_144115188676621812_7.0.3_1400.apk ./micromsg.apk
+ls
+activate python3.6
+python micro.py 
+adb devices
+adb shell
+activate python3.6
+scrapy crawl list
+scrapy crawl detail
+scrapy crawl list
+activate python3.7
+pip list
+activate python3.6
+cd E:\Projects\小程序\alading\alading
+cd E:\Projects\小程序\新榜周更\newrankSpider
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+cd E:\Projects\youkuSpider
+scrapy crawl youku
+activate python3.6
+scrapy crawl history_name
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+cd E:\Projects\youkuSpider
+scrapy crawl youku
+activate python3.6
+cdh
+cd Desktop\ele_star\
+git init
+git rm -r --cached .
+git rm -r --cached ./
+git rm --cached
+git rm -r --cached ./*
+git add -A ./
+git commit -m '从陈蔚手中接受代码'
+ls
+git status
+clear
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+python
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+cd Desktop\ele_star\
+git init
+git rm -r --cached .
+git rm -r --cached ./
+git rm --cached
+git rm -r --cached ./*
+git add -A ./
+git commit -m '从陈蔚手中接受代码'
+git status
+clear
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+cd e:\frida_example\
+ls
+activate python3.6
+activate python3.7
+frida-ps -U
+com.baidu.lbs.waimaifrida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad
+adb devices
+adb shell
+adb pull /sdcard/wandoujia/downloader/com.xunmeng.pinduoduo_144115188876659576_4.66.0_46600.apk
+adb pull /sdcard/wandoujia/downloader/com.xunmeng.pinduoduo_144115188876659576_4.66.0_46600.apk c:\Users\p8780\Desktop\pinduoduo.apk
+adb pull /sdcard/wandoujia/downloader/apk/com.xunmeng.pinduoduo_144115188876659576_4.66.0_46600.apk c:\Users\p8780\Desktop\pinduoduo.apk
+adb pull /sdcard/wandoujia/downloader/apk/com.xunmeng.pinduoduo_144115188876659576_4.66.0_46600.apk c:\Users\p8780\Desktop\pinduoduo.apk
+adb devices
+adb shell
+ping 10.153.88.42
+ipconfig
+adb pull /sdcard/wandoujia/downloader/apk/com.xunmeng.pinduoduo_144115188876659576_4.66.0_46600.apk c:\Users\p8780\Desktop\pinduoduo.apk
+ls
+history
+alias 'java -cp "C:\Program Files\3T Software Labs\Studio 3T\data-man-mongodb-ent-2019.3.0.jar"  t3.dataman.mongodb.app.ad' 3t
+alias
+3t
+clear
+adb pull /sdcard/wandoujia/downloader/com.xunmeng.pinduoduo_144115188876659576_4.66.0_46600.apk c:\Users\p8780\Desktop\pinduoduo.apk
+adb pull /sdcard/wandoujia/downloader/apk/com.xunmeng.pinduoduo_144115188876659576_4.66.0_46600.apk c:\Users\p8780\Desktop\pinduoduo.apk
+ls
+node ele_star.js
+code ele_star.js
+activate python3.7
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+cd C:\Users\p8780\Documents\NetSarang Computer\6
+rm -r *
+ls
+clear
+code ele_star.js
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+clear
+activate python3.7
+ls
+code xhs.js
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+activate python3.7
+frida-ls-devices
+frida-ps -U
+frida calculator
+frida calc
+pip install ipython
+ipython
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+cdh
+clear
+3t
+node ele_star.js
+code ele_star.js
+activate python3.7
+clear
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+pip install ipython
+ipython
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+cdh
+clear
+3t
+node ele_star.js
+code ele_star.js
+activate python3.7
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+cd e:\Projects\downloader\
+git add getmenu_with_rate_day.py
+git commit -m '修改菜单请求为只有店铺和菜单'
+git status
+adb
+whereis adb
+which adb
+cd d:\android\tools
+cd ..
+cd frida
+cd code
+clear
+ls
+adb shell
+3t
+whereis adb
+which adb
+cd d:\android\tools
+cd frida
+cd code
+adb shell
+3t
+cdh
+cd Desktop\
+openssl x509 -subject_hash_old -in FiddlerRoot.cer 
+la -alh
+ls -alh
+cd .gradle
+touch init.gradle
+code init.gradle 
+ls
+chmod 777 init.gradle 
+ls -l
+cd ..
+cd E:\Projects\小程序\新榜周更\newrankSpider
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+git commit -m '修改菜单请求为只有店铺和菜单'
+git status
+adb
+whereis adb
+which adb
+cd d:\android\tools
+cd ..
+cd frida
+cd code
+adb shell
+3t
+cd c:\Windows\System32\drivers\etc\
+vim hosts
+cdh
+cd desktop
+sed 
+sed -e 's/^.*USERID//g' -e 's/,\s+ZDS.*$//g'
+sed -e 's/^.*USERID//g' -e 's/,\s+ZDS.*$//g' cookie_results.csv 
+sed 's/,\s+ZDS.*$//g' cookie_results.csv 
+sed 's/\,\s+ZDS.*$//g' cookie_results.csv 
+sed 's/ZDS.*$//g' cookie_results.csv 
+awk -F , {print $2}
+awk -F , {print $2} cookie_results.csv 
+awk -F , '{print $2}' cookie_results.csv 
+awk -F , '{print $2,$4}' cookie_results.csv 
+awk -F , '{print $2 ',' $4}' cookie_results.csv 
+awk -F , '{print $2 "," $4}' cookie_results.csv 
+awk -F , '{print $2","$4}' cookie_results.csv 
+awk -F , '{print $2","$4}' cookie_results.csv > cookie_result.txt
+code cookie_result.txt 
+ls -l|awk '{if($5>100){count++; sum+=$5}} {print "Count:" count,"Sum: " sum}' ls -l|awk '{if($5>100){count++; sum+=$5}} {print "Count:" count,"Sum: " sum}'
+ls -l|awk '{if($5>100){count++; sum+=$5}}'
+awk -F , '{print "%s,%s",$2,$4}'
+awk -F , '{print "%s,%s",$2,$4}' cookie_result.csv
+awk -F , '{print "%s,%s",$2,$4}' cookie_results.csv
+awk -F , '{printf ("%s,%s",$2,$4})' cookie_results.csv
+awk -F , '{printf ("%s,%s",$2,$4)}' cookie_results.csv
+awk -F , '{printf ("%s,%s\n",$2,$4)}' cookie_results.csv
+wsl
+ls
+awk -F "[,= ]" '/track_id/{printf ("%s,%s\n",$4,$9)}' cookie_results_beijing_gps_new_10.csv
+awk -F "[,= ]" '/track_id/{printf ("%s,%s\n",$5,$11)}' cookie_results_beijing_gps_new_10.csv
+awk -F "[,= ]" '/track_id/{printf ("%s,%s\n",$4,$9)}' cookie_results_beijing_gps_new_10(1).csv
+awk -F "[,= ]" '/track_id/{printf ("%s,%s\n",$5,$11)}' cookie_results_beijing_gps_new_10(1).csv
+ipconfig
+history
+clear
+awk -F "[,= ]" '/track_id/{printf ("%s,%s\n",$4,$9)}' cookie_results_10_beijing_10_shanghai_0812.csv
+awk -F "[,= ]" '/track_id/{printf ("%s,%s\n",$5,$11)}' cookie_results_10_beijing_10_shanghai_0812.csv
+3t
+a -U -f com.xingin.xhs -l xhs.js --no-pause
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+activate python3.7
+frida-ls-devices
+frida calculator
+frida calc
+pip install ipython
+ipython
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+cdh
+clear
+3t
+node ele_star.js
+code ele_star.js
+activate python3.7
+clear
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+pip install ipython
+ipython
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+cdh
+clear
+3t
+node ele_star.js
+code ele_star.js
+cd e:\Projects\downloader\
+git add getmenu_with_rate_day.py
+git commit -m '修改菜单请求为只有店铺和菜单'
+git status
+adb
+whereis adb
+which adb
+cd d:\android\tools
+cd ..
+cd frida
+cd code
+3t
+code ele.js
+activate python3.7
+frida-ps -U
+com.dankegongyu.customer
+frida -U -f com.dankegongyu.customer -l danke.js --no-pause
+ls
+tail -n 10 ele_star.js
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+frida -U -f com.baidu.lbs.waimai -l ele_star.js --no-pause
+adb devices
+adb shell
+frida -U -f me.ele -l ele.js --no-pause
+pip install -U frida-cli
+pip install -U frida-tools
+clear
+frida -version
+frida -v
+pip install -u frida=12.6.14
+pip install -U frida=12.6.14
+pip install -U frida==12.6.14
+pip list
+node
+pip list
+node
+adb devices
+cd
+cdh
+cd desktop
+ls
+adb shell root
+adb shell su
+adb root
+adb push 269953fb.0 /
+adb push 269953fb.0 /data/local/tmp
+adb shell
+pip install -u frida=12.6.14
+pip install -U frida=12.6.14
+pip install -U frida==12.6.14
+pip list
+adb push frida-server-12.6.14-android-arm64 /data/local/tmp/frida-server
+adb shell
+cdh
+cd desktop
+ls
+wsl
+bash
+wsl ls *.json
+ls *.json
+clear
+3t
+node ele_star.js
+code ele_star.js
+activate python3.7
+clear
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+pip install ipython
+ipython
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+clear
+3t
+node ele_star.js
+code ele_star.js
+git add getmenu_with_rate_day.py
+git commit -m '修改菜单请求为只有店铺和菜单'
+adb
+whereis adb
+which adb
+cd d:\android\tools
+cd frida
+cd code
+3t
+code ele.js
+frida-ps -U
+com.dankegongyu.customer
+frida -U -f com.dankegongyu.customer -l danke.js --no-pause
+tail -n 10 ele_star.js
+frida -U -f com.baidu.lbs.waimai -l frida-android-repinning_1.js --no-pause
+frida -U -f com.baidu.lbs.waimai -l ele_star.js --no-pause
+pip install -U frida-cli
+pip install -U frida-tools
+frida -version
+frida -v
+pip install -u frida=12.6.14
+pip install -U frida=12.6.14
+pip install -U frida==12.6.14
+pip list
+activate python3.7
+adb pull /storage/emulated/0/MiMarket/files/apk/微信_7.0.6_1460.apk 微信_7.0.6_1460.apk
+explorer.exe ./
+explorer.exe .
+code .
+adb push .\FiddlerRoot.cer /data/local/tmp/FiddlerRoot.cer
+frida -U -f me.ele -l ele.js --no-pause
+node
+alias
+adb disable-verity
+adb devices
+adb push 269953fb.0 /system/etc/security/cacerts/
+adb push 269953fb.0 /
+adb push 269953fb.0 /data/local/tmp
+adb root
+adb su
+adb shell
+cd E:\Projects\downloader
+git add getmenu_with_rate_night.py 
+git commit -m "准备把Cookie绑定到城市"
+cd e:\Projects\小程序\新榜周更\
+cd newrankSpider\
+activate python3.6
+scrapy crawl search
+scrapy crawl history_name
+cd E:\Projects\小程序\alading
+scrapy crawl detail
+cd Desktop\
+scrapy startproject beijingEcology
+cd beijingEcology\
+scrapy genspider get_type_count amap.com
+cd ..
+ls
+cd e:\Projects\农行\
+cd shenzhenEcology\
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+scrapy crawl poi_detail
+pip install youtube-dl
+cdh
+cd desktop
+scrapy startproject ele_star
+cd ele_star
+scrapy genspider get_ele_star_shop_city
+scrapy genspider get_ele_star_shop_city amap.com
+clear
+cd e:\Projects\downloader\
+git status
+wsl
+3t
+activate python3.6
+scrapy crawl search_tingchechang_by_searchpoint
+scrapy crawl tingchechang_detail
+wsl
+3t
+cd E:\Projects\小程序\新榜周更\newrankSpider
+activate python3.6
+scrapy crawl search
+scrapy crawl detail
+scrapy crawl history_name
+clear
+cd
+cdh
+cd Desktop\
+ls
+scrapy startproject eerduosi_ecology
+cd eerduosi_ecology\
+scrapy crawl get_type_count
+scrapy crawl search_poi_by_typecode
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+wsl
+3t
+ipconfig
+3t
+ipconfig
+ping 10.153.88.127
+ping 10.153.89.205
+ifconfig
+ipconfig
+node index.js
+adb devices
+adb root
+adb shell
+ipconfig
+3t
+ipconfig
+ping 10.153.88.127
+ping 10.153.89.205
+ifconfig
+ipconfig
+node index.js
+activate python3.7
+cd ..
+cd server\
+adb push frida-server-12.6.14-android-arm64 /data/local/tmp/frida-server
+cd ../
+cd code\
+code ele.js
+ls
+adb push FiddlerRoot.cer /data/local/tmp/FiddlerRoot.cer
+frida -U -f me.ele -l ele.js --no-pause\
+frida -U -f me.ele -l ele.js --no-pause
+frida -U -f me.ele -l ele.js --no-pause\
+frida -U -f me.ele -l ele.js --no-pause
+cdh
+ls
+adb disable-verity
+adb restart
+adb shell
+node index.js
+3t
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+3t
+ipconfig
+3t
+ipconfig
+ping 10.153.88.127
+ping 10.153.89.205
+ifconfig
+node index.js
+ipconfig
+gradle -v
+cd C:\Users\p8780\Documents\WXWork\1688851606873247\Cache
+rm -rf *
+wsl
+cdh
+cd Desktop\
+adb root
+adb push 269953fb.0 /system/etc/security/cacerts/
+cd d:\android\frida\server\
+adb push frida-server-12.6.14-android-arm64 /data/local/tmp/frida-server
+cd ..\code\
+ls
+adb push FiddlerRoot.cer /data/local/tmp
+code ele.js
+activate python3.7
+clear
+frida -U -f me.ele -l ele.js --no-pause
+cdh
+cd Desktop\
+adb root
+adb push 269953fb.0 /system/etc/security/cacerts/
+cd d:\android\frida\server\
+adb push frida-server-12.6.14-android-arm64 /data/local/tmp/frida-server
+cd ..\code\
+adb push FiddlerRoot.cer /data/local/tmp
+var a=3,b=4
+node
+activate python3.7
+code xhs.js
+cd ..\server\
+pip install --upgrade frida-tools
+pip install --upgrade frida
+clear
+adb push frida-server-12.6.23-android-arm64 /data/local/tmp/frida-server
+cd ../code
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+ls
+code ele.js
+frida -U -f me.ele -l ele.js --no-pause
+3t
+code ele.js
+frida -U -f me.ele -l ele.js --no-pause
+3t
+cdh
+cd Desktop\
+cd curl-7.66.0\
+cd winbuild\
+vcvars32.bat 
+nmake.exe -f Makefile.vc -mode dll vc=14
+nmake.exe -f Makefile.vc --mode dll vc=14
+nmake.exe /h
+nmake ?
+nmake
+nmake.exe -f Makefile.vc mode=dll vc=14
+nmake.exe -f Makefile.vc mode=static vc=14
+cd ..
+ls
+buildconf.bat 
+nmake.exe -f Makefile.vc -mode dll vc=14
+nmake.exe -f Makefile.vc --mode dll vc=14
+nmake.exe /h
+nmake ?
+nmake
+nmake.exe -f Makefile.vc mode=dll vc=14
+nmake.exe -f Makefile.vc mode=static vc=14
+buildconf.bat 
+activate python3.6
+pip install pycurl
+cd ..
+curl -o pycurl https://pypi.tuna.tsinghua.edu.cn/packages/ac/b3/0f3979633b7890bab6098d84c84467030b807a1e2b31f5d30103af5a71ca/pycurl-7.43.0.3.tar.gz
+tar -zxvf pycurl
+cd pycurl-7.43.0.3\
+python setup.py
+python setup.py install --curl-dir=c:/libcurl
+clear
+cd ../
+rm -f pycurl-7.43.0.3\
+rm -rf pycurl-7.43.0.3\
+rm -r curl
+rm -r curl-7.66.0
+rm curl-7.66.0.tar.gz 
+ls
+code xhs.js
+cd ..\server\
+pip install --upgrade frida-tools
+pip install --upgrade frida
+adb push frida-server-12.6.23-android-arm64 /data/local/tmp/frida-server
+cd ../code
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+code ele.js
+frida -U -f me.ele -l ele.js --no-pause
+3t
+activate python3.6
+cd 
+cdh
+cd desktop
+pip install pycurl
+curl -o https://pypi.tuna.tsinghua.edu.cn/packages/ac/b3/0f3979633b7890bab6098d84c84467030b807a1e2b31f5d30103af5a71ca/pycurl-7.43.0.3.tar.gzpycurl-7.43.0.3.tar.gz
+curl --out pycurl-7.43.0.3.tar.gz https://pypi.tuna.tsinghua.edu.cn/packages/ac/b3/0f3979633b7890bab6098d84c84467030b807a1e2b31f5d30103af5a71ca/pycurl-7.43.0.3.tar.gzpycurl-7.43.0.3.tar.gz
+curl --output pycurl-7.43.0.3.tar.gz https://pypi.tuna.tsinghua.edu.cn/packages/ac/b3/0f3979633b7890bab6098d84c84467030b807a1e2b31f5d30103af5a71ca/pycurl-7.43.0.3.tar.gzpycurl-7.43.0.3.tar.gz
+curl --output pycurl-7.43.0.3.tar.gz https://pypi.tuna.tsinghua.edu.cn/packages/ac/b3/0f3979633b7890bab6098d84c84467030b807a1e2b31f5d30103af5a71ca/pycurl-7.43.0.3.tar.gz
+;s
+tar -zxvf pycurl-7.43.0.3.tar.gz 
+cd pycurl-7.43.0.3\
+python setup.py install
+python setup.py install --curl-dir=c:/libcurl
+python setup.py  --curl-dir=c:/libcurl/
+python setup.py install  --curl-dir=c:/libcurl/
+clear
+ls
+python setup.py
+python setup.py --curl-dir c:/libcurl
+python setup.py --curl-dir=c:/libcurl
+cl
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+code ele.js
+frida -U -f me.ele -l ele.js --no-pause
+3t
+alias
+activate python3.7
+activate python3.6
+pip install pycurl
+cdh
+cd desktop'
+cd desktop
+cd pycurl-7.43.0.3\
+ls
+python setup.py install
+cd ..
+git clone https://github.com/curl/curl.git
+3t
+3t
+cd pycurl-7.43.0.3\
+ls
+python setup.py install --curl-dir=c:/libcurl
+alias
+activate python3.7
+activate python3.6
+pip install pycurl
+cdh
+cd desktop'
+python setup.py install
+git clone https://github.com/curl/curl.git
+3t
+cd desktop
+cd curl
+.\buildconf.bat 
+cd winbuild\
+nmake /f Makefile.vc mode=dll vc=14
+cd ..
+rm -r curl
+rm pycurl
+cd pycurl-7.43.0.3\
+ls
+python setup.py install 
+python setup.py install --curl-dir=c:/libcurl
+python setup.py install --curl-dir=c:/lib-curl
+python setup.py install --curl-dir=c:\libcurl\
+python setup.py install --curl-dir=c:\libcurl\
+python setup.py install --curl-dir=c:\libcurl\
+python setup.py install --curl-dir=c:\libcurl\
+alias
+activate python3.7
+cdh
+cd desktop'
+python setup.py install
+git clone https://github.com/curl/curl.git
+3t
+cd desktop
+cd curl
+.\buildconf.bat 
+cd winbuild\
+nmake /f Makefile.vc mode=dll vc=14
+cd ..
+rm -r curl
+rm pycurl
+python setup.py install 
+python setup.py install --curl-dir=c:/libcurl
+python setup.py install --curl-dir=c:/lib-curl
+python setup.py install --curl-dir=c:\libcurl\
+python setup.py install --curl-dir=c:\libcurl\
+python setup.py install --curl-dir=c:\libcurl\
+python setup.py install --curl-dir=c:\libcurl\
+activate python3.6
+python get_mipu_proxy.py 
+clear
+pip install pycurl
+curl 
+curl --help
+curl -o pycurl.tar.gz https://pypi.tuna.tsinghua.edu.cn/packages/ac/b3/0f3979633b7890bab6098d84c84467030b807a1e2b31f5d30103af5a71ca/pycurl-7.43.0.3.tar.gz
+tar -zxvf pycurl.tar.gz
+cd pycurl-7.43.0.3\
+7zip
+cd /c/Windows/system32/
+ls /
+python winbuild.py 
+untar
+whereis tar
+wsl
+ls
+tar
+which tar
+code winbuild.py
+python winbuild.py
+3t
+curl --help
+curl -o pycurl.tar.gz https://pypi.tuna.tsinghua.edu.cn/packages/ac/b3/0f3979633b7890bab6098d84c84467030b807a1e2b31f5d30103af5a71ca/pycurl-7.43.0.3.tar.gz
+tar -zxvf pycurl.tar.gz
+cd pycurl-7.43.0.3\
+7zip
+cd /c/Windows/system32/
+ls /
+untar
+whereis tar
+wsl
+tar
+which tar
+code winbuild.py
+python winbuild.py
+3t
+vc
+cl
+clear
+python winbuild.py 
+C:/Program Files (x86)/Microsoft Visual Studio 14.0\vc/vcvarsall.bat" amd64
+"C:/Program Files (x86)/Microsoft Visual Studio 14.0\vc/vcvarsall.bat" amd64
+IF %ERRORLEVEL% NEQ 0 exit %errorlevel%
+perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-64\build
+erl
+perl Config
+cd C:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-64
+ls
+perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+nasm
+python winbuild.py
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+state activate guuze/ActivePerl-5.28
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:/dev/build-pycurl/archives/openssl-1.1.0h-vc14-32/build
+ perl Configure VC-WIN64A
+ perl Configure VC-WIN64A
+ls
+perl Congigure
+perl Configure
+ perl Configure VC-WIN64
+ perl Configure VC-WIN64A
+perl -v
+ perl Configure VC-WIN64A
+ perl Configure VC-WIN64A
+ perl Configure VC-WIN64A
+perl Congigure
+perl Configure
+ perl Configure VC-WIN64
+ perl Configure VC-WIN64A
+perl -v
+ perl Configure VC-WIN64A
+perl Configure 
+perl Configure VC-WIN64A
+nmake /f makefile
+cdh
+cd desktop
+cd pycurl-7.43.0.3\
+ls
+activate python3.6
+python winbuild.py 
+perl
+perl -v
+ls
+activate python3.6
+python winbuild
+python winbuild.py
+python winbuild.py 
+perl
+perl -v
+ls
+python winbuild
+activate python3.6
+tar
+which tar
+python winbuild.py
+python winbuild.py
+ls
+python winbuild.py 
+cd ../../
+ls
+cd apk
+adb pull wandoujia/downloader/apk/com.xunmeng.pinduoduo_144115188876586165_4.33.0_43300.apk ./
+adb pull /sdcard/wandoujia/downloader/apk/com.xunmeng.pinduoduo_144115188876586165_4.33.0_43300.apk ./
+clear
+perl -v
+ls
+python winbuild
+activate python3.6
+tar
+which tar
+python winbuild.py
+python winbuild.py
+ls
+python winbuild.py 
+adb devices
+adb kill-server
+adb shell
+tar -zxvf pycurl.tar.gz
+cd pycurl-7.43.0.3\
+7zip
+cd /c/Windows/system32/
+ls /
+untar
+whereis tar
+tar
+which tar
+code winbuild.py
+python winbuild.py
+3t
+vc
+cl
+python winbuild.py 
+C:/Program Files (x86)/Microsoft Visual Studio 14.0\vc/vcvarsall.bat" amd64
+"C:/Program Files (x86)/Microsoft Visual Studio 14.0\vc/vcvarsall.bat" amd64
+IF %ERRORLEVEL% NEQ 0 exit %errorlevel%
+perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-64\build
+erl
+perl Config
+cd C:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-64
+ls
+perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+nasm
+python winbuild.py
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+state activate guuze/ActivePerl-5.28
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:\dev\build-pycurl\archives\openssl-1.1.0h-vc14-32\build
+ perl Configure VC-WIN64A no-comp no-shared --openssldir=ssl --prefix=c:/dev/build-pycurl/archives/openssl-1.1.0h-vc14-32/build
+ perl Configure VC-WIN64A
+ perl Configure VC-WIN64A
+ls
+perl Congigure
+perl Configure
+ perl Configure VC-WIN64
+ perl Configure VC-WIN64A
+perl -v
+ perl Configure VC-WIN64A
+ perl Configure VC-WIN64A
+ perl Configure VC-WIN64A
+perl Congigure
+perl Configure
+ perl Configure VC-WIN64
+ perl Configure VC-WIN64A
+perl -v
+ perl Configure VC-WIN64A
+perl Configure 
+perl Configure VC-WIN64A
+nmake /f makefile
+cd pycurl-7.43.0.3\
+ls
+activate python3.6
+python winbuild.py 
+perl
+perl -v
+ls
+activate python3.6
+python winbuild
+python winbuild.py
+python winbuild.py 
+perl
+perl -v
+ls
+python winbuild
+activate python3.6
+tar
+which tar
+python winbuild.py
+python winbuild.py
+python winbuild.py 
+rm -r dist
+rm pycurl.tar.gz 
+mv xiaohongshu_hive\ e:\Projects\小红书系列爬数\
+mv omnivoice_* e:\Projects\小红书系列爬数\
+cd e:\Projects\小红书系列爬数\
+cdh
+cd desktop
+cd fiddler证书\
+wsl
+adb push 269953fb.* /system/etc/security/caerts
+adb push 269953fb.0 /system/etc/security/caerts
+adb push 269953fb.1 /system/etc/security/caerts
+adb push 269953fb.2 /system/etc/security/caerts
+adb push 269953fb.3 /system/etc/security/caerts
+adb push 269953fb.4 /system/etc/security/caerts
+adb push 269953fb.5 /system/etc/security/caerts
+adb push 269953fb.6 /system/etc/security/caerts
+adb push 269953fb.7 /system/etc/security/caerts
+adb push 269953fb.8 /system/etc/security/caerts
+adb push 269953fb.8 /system/etc/security/cacerts
+adb push 269953fb.7 /system/etc/security/cacerts
+adb push 269953fb.6 /system/etc/security/cacerts
+adb push 269953fb.5 /system/etc/security/cacerts
+adb push 269953fb.4 /system/etc/security/cacerts
+adb push 269953fb.3 /system/etc/security/cacerts
+adb push 269953fb.2 /system/etc/security/cacerts
+adb push 269953fb.1 /system/etc/security/cacerts
+adb push 269953fb.0 /system/etc/security/cacerts
+mount -o ro,remount /system
+adb devoces
+adb disable-verify
+adb devices
+ls /system/etc/security/cacerts
+adb disable-verity
+adb reboot
+adb root
+adb remount
+adb push 269953fb.0 269953fb.1 269953fb.2  269953fb.3 269953fb.4 269953fb.5 269953fb.6 269953fb.7 269953fb.8 /system/etc/security/cacerts
+adb shell
+cd ..
+adb pull /sdcard/MiMarket/files/apk/微信_7.0.6_1500.apk ./
+adb pull /sdcard/MiMarket/files/apk/微信_7.0.6_1500.apk ./微信_7.0.6_1500.apk
+clear
+ls
+python winbuild
+python winbuild.py
+python winbuild.py 
+perl
+perl -v
+ls
+python winbuild
+tar
+which tar
+python winbuild.py
+python winbuild.py
+python winbuild.py 
+cd d:\android\frida\code
+code ele_star.js
+activate python3.7
+frida -U -f com.baidu.lbs.waimai -l ele_star.js --no-pause
+adb devices
+adb shell
+activate python3.6
+cdh
+cd Desktop\
+ls
+scrapy startproject chengduEcology
+cd chengduEcology\
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+scrapy crawl search_tingchechang_by_searchpoint
+scrapy crawl tingchechang_detail
+3t
+3t
+cd desktop
+adb root
+adb shell
+ls
+clear
+adb shell
+cdh
+cd Desktop\
+ls
+scrapy startproject chengduEcology
+cd chengduEcology\
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+scrapy crawl search_tingchechang_by_searchpoint
+scrapy crawl tingchechang_detail
+3t
+3t
+cd desktop
+adb root
+ls
+clear
+adb devices
+adb shell
+activate python3.6
+cd C:\Users\p8780\Desktop\美团\美团APP反编译\sources\com\meituan\robust
+python Untitled-2.py 
+adb shell
+activate python3.6
+cdh
+ls
+scrapy startproject chengduEcology
+cd chengduEcology\
+scrapy crawl search_poi_by_searchpoint
+scrapy crawl poi_detail
+scrapy crawl search_tingchechang_by_searchpoint
+scrapy crawl tingchechang_detail
+3t
+3t
+cd desktop
+adb root
+adb shell
+cd Desktop\
+adb pull /sdcard/MiMarket/files/apk/美团外卖_7.21.3_72103.apk ./
+adb pull /sdcard/MiMarket/files/apk/美团外卖_7.21.3_72103.apk ./美团外卖_7.21.3_72103.apk
+cd d:\android\
+cd frida
+clear
+activate python3.7
+pip install frida-tools
+pip install frida
+cd server\
+adb push frida-server-12.6.23-android-arm64 /data/local/tmp/frida-server
+cd ..
+cd code
+ls
+cp ele.js meituan.js
+code meituan.js
+frida -U -f com.sankuai.meituan.takeoutnew -l meituan.js --no-pause
+frida -U -f com.sankuai.meituan.takeoutnew -l meituan.js --no-pause
+which cmder
+ls
+clear
+ls
+clear
+ls
+pwd
+cd
+cdh
+clear
+ls
+clear
+pwd
+cd
+cdh
+clear
+clear
+cd E:\Projects\ele\定时任务
+rm *
+e.
+mv c:\Users\p8780\Desktop\*.log ./
+ls c:\Users\p8780\Desktop\*.log 
+which ls
+ls --help
+ls
+ls c:\Users\p8780\Desktop\ | grep *.log
+ls c:\Users\p8780\Desktop\ 
+ls c:\Users\p8780\Desktop\ --color=auto
+ls c:\Users\p8780\Desktop\*.csv --color=auto
+cdh
+cd desktop
+cd ..
+3t
+clear
+ls
+vim hosts
+clear
+cdh
+cd c:\Windows\System32\
+cd drivers\etc\
+ls
+clear
+cd d:\android\frida\code
+ls
+activate python3.7
+frida -U -f com.sankuai.meituan.takeoutnew -l meituan.js --no-pause
+frida -U -f com.sankuai.meituan.takeoutnew -l meituan.js --no-pause
+history
+ls c:\Users\p8780\Desktop\
+ls c:\Users\p8780\Desktop\*.log
+wsl
+ls
+alias
+which bash
+ls
+alias
+which ls
+cd /usr/bin/ls
+clear
+which ls
+cd /usr/bin/ls
+cd ..
+ls -l
+rm NTUSER.DAT 
+cdh
+cd Desktop\
+s
+cd timed_task
+rm *.log
+ls
+clear
+cd /usr/bin/ls
+cd
+cd c:\Users\p8780\Desktop\
+code timed_task
+rm timed_task\*.log
+bash
+clear
+ls
+code E:\software\Cmder\vendor\conemu-maximus5\ConEmu.xml
+s
+ss
+clear
+cdh
+cd Desktop
+ls
+cat ele.kfc.201909.csv >> ele.mcd.201909.csv 
+bash
+3t
+rm timed_task\*.log
+bash
+clear
+cd d:\android\frida\server\
+cd ../code
+ls
+code ele.js
+activate python3.7
+adb push FiddlerRoot.cer /data/local/tmp/FiddlerRoot.cer
+frida -U -f me.ele -l ele.js --no-pause
+cd ..
+cd code
+ls
+adb shell
+3t
+clear
+adb shell
+3t
+cd e:\Projects\
+cd downloader\
+ls
+git add -A ./
+git status
+git commit -m '开始爬取十月份的数据'
+clear
+cmder
+3t
+python
+cd
+cd c:\Users\p8780\Desktop\
+code timed_task
+rm timed_task\*.log
+bash
+clear
+ls
+code E:\software\Cmder\vendor\conemu-maximus5\ConEmu.xml
+s
+ss
+clear
+cdh
+cd Desktop
+ls
+cat ele.kfc.201909.csv >> ele.mcd.201909.csv 
+bash
+3t
+rm timed_task\*.log
+bash
+clear
+cd d:\android\frida\server\
+ls
+adb push FiddlerRoot.cer /data/local/tmp/FiddlerRoot.cer
+cd ..
+cd code
+ls
+adb shell
+3t
+clear
+adb shell
+3t
+cd e:\Projects\
+cd downloader\
+git add -A ./
+git status
+git commit -m '开始爬取十月份的数据'
+clear
+cmder
+3t
+python
+code meituan.js
+activate python3.7
+frida -U -f com.sankuai.meituan.takeoutnew -l meituan.js --no-pause
+code ele.js
+cd ..\server\
+adb push frida-server-12.6.23-android-arm64 /data/local/tmp/frida-server
+cd ../code
+ls
+adb push FiddlerRoot.cer /data/local/tmp/
+frida -U -f me.ele -l ele.js --no-pause
+python
+java -jar baksmali-2.3.4.jar 美团外卖_7.21.3_72103.apk -o ./project/myapp/src/
+java -jar baksmali-2.3.4.jar 美团外卖_7.21.3_72103.apk -o ./
+java -jar baksmali-2.3.4.jar -o ./ 美团外卖_7.21.3_72103.apk 
+java -jar baksmali-2.3.4.jar d 美团外卖_7.21.3_72103.apk 
+cd e:\document\
+ls
+code product_consumer
+code product_consumer.py 
+3t
+cd e:\Projects\
+cd downloader\
+git add -A ./
+git status
+git commit -m '开始爬取十月份的数据'
+cmder
+3t
+python
+code meituan.js
+activate python3.7
+frida -U -f com.sankuai.meituan.takeoutnew -l meituan.js --no-pause
+code ele.js
+cd ..\server\
+adb push frida-server-12.6.23-android-arm64 /data/local/tmp/frida-server
+cd ../code
+ls
+adb push FiddlerRoot.cer /data/local/tmp/
+frida -U -f me.ele -l ele.js --no-pause
+python
+java -jar baksmali-2.3.4.jar 美团外卖_7.21.3_72103.apk -o ./project/myapp/src/
+java -jar baksmali-2.3.4.jar 美团外卖_7.21.3_72103.apk -o ./
+java -jar baksmali-2.3.4.jar -o ./ 美团外卖_7.21.3_72103.apk 
+java -jar baksmali-2.3.4.jar d 美团外卖_7.21.3_72103.apk 
+cd e:\document\
+code product_consumer
+code product_consumer.py 
+3t
+chd
+cd ..
+cdh
+cd Desktop\
+ls
+uniq -c a.txt
+uniq -f 1 -c a.txt
+uniq -f 1 -i -c a.txt
+uniq -i -c a.txt
+clear
+adb logcat -s Androidruntime
+3t
+uniq -i -c a.txt
+adb logcat -s Androidruntime
+3t
+ls
+vim a
+notepad++
+clear
+uniq -f 1 -i -c a.txt
+uniq -i -c a.txt
+adb logcat -s Androidruntime
+3t
+cd e:\Projects\downloader\
+git add -A ./
+git commit -m 'cookie只有一组，每天爬取'
+clear
+git reflog
+activate python3.6
+cd E:\Projects\小程序\alading\alading
+cd ..
+scrapy crawl detail
+ls
+cd ../../
+cd downloader\
+git status
+git checkout --spider/getlist_day.py
+git checkout -- spider/getlist_day.py
+activate python3.7
+ls
+code xhs.js
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+3t
+adb pull /sdcard/MiMarket/files/apk/快手_6.9.0.11026_11026.apk ./快手_6.9.0.11026_11026.apk
+clear
+adb shell
+cd E:\document
+ls
+ls *.txt
+wsl
+git reflog
+cd E:\Projects\小程序\alading\alading
+scrapy crawl detail
+ls
+cd ../../
+cd downloader\
+git status
+git checkout --spider/getlist_day.py
+git checkout -- spider/getlist_day.py
+activate python3.7
+code xhs.js
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+3t
+activate python3.6
+ipython
+cd Desktop\
+cd ele分析
+mv 根据gps获取gps所在的城市信息.txt 根据gps获取gps所在的城市信息
+mv 退出登录的请求.txt 退出登录的请求
+MV 通过验证码登录的请求.txt 通过验证码登录的请求
+mv 发送验证码的请求.txt 发送验证码的请求
+mv 搜索不在范围内的店铺.txt 搜索不在范围内的店铺
+mv *.txt *
+ls *.txt
+mv 请求1.txt 请求1
+MV 请求2.txt 请求2
+mv 请求3.txt 请求3
+vim 请求1
+vim 请求2
+cd ..
+adb pull /sdcard/MiMarket/files/apk/快手_6.9.0.11026_11026.apk ./快手_6.9.0.11026_11026.apk
+ls
+adb install 快手_6.9.0.11026_11026.apk 
+adb shell
+mv e:\Projects\downloader\spider\get_gps_city_id.py e:\document\get_ele_shop_city\
+clear
+uniq -f 1 -i -c a.txt
+uniq -i -c a.txt
+clear
+adb logcat -s Androidruntime
+3t
+uniq -i -c a.txt
+adb logcat -s Androidruntime
+3t
+ls
+vim a
+notepad++
+clear
+uniq -f 1 -i -c a.txt
+uniq -i -c a.txt
+adb logcat -s Androidruntime
+3t
+cd e:\Projects\downloader\
+git add -A ./
+git commit -m 'cookie只有一组，每天爬取'
+git reflog
+activate python3.6
+cd E:\Projects\小程序\alading\alading
+scrapy crawl detail
+ls
+cd downloader\
+git checkout --spider/getlist_day.py
+git checkout -- spider/getlist_day.py
+code xhs.js
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+3t
+code e:\document\product_consumer.py 
+git add spider\getlist_day.py 
+git commit -m '准备在请求中添加city_id'
+git status
+cdh
+cd desktop
+adb pull /sdcard/MiMarket/files/apk/大众点评_10.20.3_102001.apk ./大众点评_10.20.3_102001.apk
+adb pull /sdcard/MiMarket/files/apk/快手_6.9.0.11026_11026.apk
+mv request处理流程.txt request处理流程
+rm update_test.py 
+rm "191024_久谦中台_Youtube CEO视频_补爬字幕_爬数需求_v1.0.xlsx" 
+rm ORM_KOL.py 
+cd d:\android\
+cd project\
+code dianping.js
+activate python3.7
+frida -U -f com.dianping.v1 -l dianping.js --no-pause
+cd eleme
+cd ele分析
+code request处理流程 
+code list1
+import uuid
+python
+cd ../../
+cd ..
+cd frida\
+cd server\
+ls
+clear
+adb push frida-server-12.6.23-android-arm64 /data/local/tmp/frida-server
+adb root
+adb shell
+adb shell
+clear
+git add spider\getlist_day.py 
+git status
+adb pull /sdcard/MiMarket/files/apk/快手_6.9.0.11026_11026.apk ./快手_6.9.0.11026_11026.apk
+adb install 快手_6.9.0.11026_11026.apk 
+mv e:\Projects\downloader\spider\get_gps_city_id.py e:\document\get_ele_shop_city\
+adb devices
+adb shell
+activate python3.7
+frida-ps
+frida-ps -U
+code meituan.js
+frida -U -f com.dianping.v1 -l dianping.js --no-pause
+ls
+code ele.js
+clear
+frida -U -f me.ele -l ele.js --no-pause
+pip list
+ls
+uniq -c a.txt
+uniq -f 1 -c a.txt
+uniq -f 1 -i -c a.txt
+uniq -i -c a.txt
+clear
+adb logcat -s Androidruntime
+3t
+uniq -i -c a.txt
+adb logcat -s Androidruntime
+3t
+ls
+vim a
+notepad++
+clear
+uniq -f 1 -i -c a.txt
+uniq -i -c a.txt
+adb logcat -s Androidruntime
+3t
+cd e:\Projects\downloader\
+git add -A ./
+git commit -m 'cookie只有一组，每天爬取'
+git reflog
+activate python3.6
+cd E:\Projects\小程序\alading\alading
+cd ..
+scrapy crawl detail
+ls
+cd ../../
+cd downloader\
+git status
+git checkout --spider/getlist_day.py
+git checkout -- spider/getlist_day.py
+ls
+code xhs.js
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+3t
+code ele.js
+activate python3.7
+clear
+frida -U -f me.ele -l ele.js --no-pause
+3t
+google-java-format
+echo haha
+echo $HOME
+echo "$HOME"
+clear
+cdh
+cd desktop
+code --install-extension Equinusocio.vsc-material-theme-latest.vsix 
+echo haha
+echo $HOME
+echo "$HOME"
+npm install -g google-java-format
+cd desktop
+npm install google-java-format
+activate python3.6
+pip search google-java-format
+cd ..
+deactivate
+conda deactivate
+clear
+3t
+deactivate
+conda deactivate
+3t
+java -jar d:\Java\jar-package\google-java-format.jar Untitled-4.java 
+clear
+java -jar d:\Java\jar-package\google-java-format.jar --help
+java -jar d:\Java\jar-package\google-java-format.jar -i --aosp Untitled-4.java 
+java google-java-format.jar
+java -jar google-java-format.jar
+google-java-format
+ls
+code Untitled-4.java 
+google-java-format -i
+google-java-format --help
+java -jar google-java-format.jar --help
+google-java-format -i
+google-java-format --help
+cd C:\Users\p8780\AppData\Local\Programs
+rm -r "Microsoft VS Code\
+cdh
+cd desktop
+ls
+code --help
+code
+rm -r "Microsoft VS Code\
+cd desktop
+code --help
+code
+cdh
+cd .vscode\
+cd extensions\
+cd wx-chevalier.google-java-format-0.0.1\
+npm install sax
+ls
+rm -r "Microsoft VS Code\
+cdh
+cd desktop
+ls
+code
+code --help
+code --uninstall-extension wx-chevalier.google-java-format
+code --list-extensions
+code --install-extension "vscode-google-java-format-provider-master
+mv  "vscode-google-java-format-provider-master (1).zip" "vscode-google-java-format-provider-master.zip
+code --install-extension vscode-google-java-format-provider-master.zip 
+clear
+code --verbose
+uniq -f 1 -i -c a.txt
+uniq -i -c a.txt
+adb logcat -s Androidruntime
+3t
+cd e:\Projects\downloader\
+git add -A ./
+git commit -m 'cookie只有一组，每天爬取'
+git reflog
+activate python3.6
+cd E:\Projects\小程序\alading\alading
+cd ..
+scrapy crawl detail
+ls
+cd ../../
+cd downloader\
+git status
+git checkout --spider/getlist_day.py
+git checkout -- spider/getlist_day.py
+ls
+code xhs.js
+frida -U -f com.xingin.xhs -l xhs.js --no-pause
+3t
+code ele.js
+activate python3.7
+clear
+frida -U -f me.ele -l ele.js --no-pause
+3t
+google-java-format
+echo haha
+echo $HOME
+echo "$HOME"
+clear
+cdh
+cd desktop
+code --install-extension Equinusocio.vsc-material-theme-latest.vsix 
+echo haha
+echo $HOME
+echo "$HOME"
+npm install -g google-java-format
+cd desktop
+npm install google-java-format
+activate python3.6
+pip search google-java-format
+cd ..
+deactivate
+conda deactivate
+clear
+3t
+deactivate
+conda deactivate
+3t
+java -jar d:\Java\jar-package\google-java-format.jar Untitled-4.java 
+java -jar d:\Java\jar-package\google-java-format.jar --help
+java -jar d:\Java\jar-package\google-java-format.jar -i --aosp Untitled-4.java 
+java google-java-format.jar
+java -jar google-java-format.jar
+google-java-format
+ls
+code Untitled-4.java 
+google-java-format -i
+google-java-format --help
+java -jar google-java-format.jar --help
+google-java-format -i
+google-java-format --help
+cd C:\Users\p8780\AppData\Local\Programs
+rm -r "Microsoft VS Code\
+code --help
+code
+npm install -g sax
+npm --help
+npm list
+clear
+npm ls
+cdh
+cd desktop
+ls
+java -jar D:\Java\jar-package\google-java-format.jar
+java --help
+java -help
+java -jar d:\Java\jar-package\google-java-format.jar 
+java
+node a.js
+cmd java
+java --help
+java -help
+java -jar d:\Java\jar-package\google-java-format.jar 
+java
+node a.js
+cmd java
+adb shell
+cat yapei_xhs  | awk -F '/' '{print $3}'
+cat yapei_xhs  | awk -F '/' '{print $4}'
+cat yapei_xhs  | awk -F '/' '{print $6}'
+cat yapei_xhs  | awk -F '/' '{print $6}' | awk -F '?' '{print $1}'
+cat yapei_xhs  | awk -F '/' '{print $6}' | awk -F '?' '{print $1}'>contentid
+rm yapei_xhs
+rm yapei_xhs_191101.xlsx 
+rm -r ele
+rm shop 
+rm xiaohongshu.KOL_product.20191101.csv 
+clear
+ls
+rm -rf ele
+java -help
+java -jar d:\Java\jar-package\google-java-format.jar 
+java
+node a.js
+cmd java
+cd ele
+python a.py
+cd ..
+rm -r ele
+rm contentid 
+clear
+cd e:\document
+ls
+code product_consumer
+code product_consumer.py 
+java -help
+java -jar d:\Java\jar-package\google-java-format.jar 
+java
+node a.js
+cmd java
+clear
+history
+code ele.js
+activate python3.7
+frida -U -f me.ele -l ele.js --no-pause
+3t
+cd ..
+rm -r ele
+rm contentid 
+clear
+cd e:\document
+code product_consumer
+code product_consumer.py 
+java -help
+java -jar d:\Java\jar-package\google-java-format.jar 
+java
+node a.js
+cmd java
+history
+code ele.js
+activate python3.7
+frida -U -f me.ele -l ele.js --no-pause
+3t
+cd c:\Windows\System32\drivers\etc\
+vim hosts
+clear
+cd
+cdh
+cd desktop
+java -jar d:\Java\jar-package\google-java-format.jar --help
+java -jar d:\Java\jar-package\google-java-format.jar -i 动态获取权限.java 
+rm *.jpg
+rm *.apk
+rm *.rar
+rm *.csv
+rm 十月份支出明细.xlsx 
+ls
+conda activate python3.6
+activate python3.6
+pip install tesseract-orc
+pip install tesseract-ocr
+pip install pytesseract
+python 1.py
+frida -U -f me.ele -l ele.js --no-pause
+3t
+cd e:\Projects\
+cd downloader\
+cd etl
+ls
+code 说明.md
+code --help
+code -n 说明.md
+node a.js
+cmd java
+clear
+history
+code ele.js
+activate python3.7
+frida -U -f me.ele -l ele.js --no-pause
+3t
+cd d:\android\project\
+cd eleme
+cd ele分析\
+code 请求1
+code request处理流程 
+cd ..
+cd ele_src
+tree 
+ls -alh
+find . -name "*.*" -print|xargs grep track_id
+find . -name "*.*" 
+find ./ -name "*.*"
+wsl
+cd src
+cd main
+ls
+code AndroidManifest.xml 
+rm -r ele
+rm contentid 
+clear
+cd e:\document
+ls
+code product_consumer
+code product_consumer.py 
+java -help
+java -jar d:\Java\jar-package\google-java-format.jar 
+java
+node a.js
+cmd java
+history
+3t
+ipconfig
+clear
+activate python3.7
+code ele.js
+adb devices
+adb shell
+frida -U -f me.ele -l ele.js --no-pause
+code ele.js
+activate python3.7
+frida -U -f me.ele -l ele.js --no-pause
+ping 192.168.89.1
+3t
+code -n e:\document\数据交付符号替换表.py
+frida -U -f me.ele -l ele.js --no-pause
+ping 192.168.89.1
+3t
+code -n e:\document\数据交付符号替换表.py
+adb list
+adb devices
+cdh
+cd desktop
+rm *.csv
+rm 微信_7.0.8_1540 
+ls
+clear
+adb shell
